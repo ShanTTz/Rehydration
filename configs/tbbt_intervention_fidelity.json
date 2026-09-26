@@ -1,0 +1,73 @@
+{
+  "protocol": {
+    "name": "TBBT frozen BDMTF intervention-prediction fidelity",
+    "version": 1,
+    "frozen_at": "2026-07-30T00:00:00Z",
+    "estimand": "Average 30-day log change in within-community daily comment volume relative to the qualified synthetic-control counterfactual.",
+    "prediction_rule": "Predictions use only TBBT IN-BEFORE records, previously frozen BDMTF parameters, independent Lemmy validation parameters, and pre-outcome qualification diagnostics.",
+    "scoring_rule": "The prediction process cannot open the observed intervention-effects file. A separate scoring process unseals it after frozen predictions and their hashes exist.",
+    "evidence_boundary": "The analyst had already seen aggregate TBBT effects before this protocol was created. This is a retrospectively protocol-frozen mechanism check, not a prospective, preregistered, or analyst-blind prediction."
+  },
+  "inputs": {
+    "qualification_diagnostics": "artifacts/interventions/tbbt_qualified_controls/qualification_diagnostics.csv",
+    "observed_effects": "artifacts/interventions/tbbt_qualified_controls/intervention_effects.csv",
+    "community_models": "artifacts/models/community_models.json",
+    "paper_model_config": "configs/paper_exact_reproduction.json",
+    "lemmy_agent_replay_manifest": "artifacts/interventions/agent_replay/agent_replay_manifest.json",
+    "ablation_grid": "configs/ablation_grid.json",
+    "simulation_source": "src/bdmtf/revision/simulation.py"
+  },
+  "raw_events": {
+    "tbbt-01": {
+      "archive": "data/external/tbbt/raw/post_removal.zip",
+      "member": "post_removal/2022-askreddit/2022-askreddit-in-before"
+    },
+    "tbbt-02": {
+      "archive": "data/external/tbbt/raw/quarantine.zip",
+      "member": "quarantine/2019-the_donald/2019-the_donald-in-before"
+    },
+    "tbbt-03": {
+      "archive": "data/external/tbbt/raw/quarantine.zip",
+      "member": "quarantine/2019-chapotraphouse/2019-chapotraphouse-in-before"
+    },
+    "tbbt-06": {
+      "archive": "data/external/tbbt/raw/post_removal.zip",
+      "member": "post_removal/2022-science/2022-science-in-before"
+    },
+    "tbbt-18": {
+      "archive": "data/external/tbbt/raw/quarantine.zip",
+      "member": "quarantine/2023-goblin/2023-goblin-in-before"
+    }
+  },
+  "mechanism": {
+    "pre_feature_days": 30,
+    "external_traffic_multiplier": 1.1,
+    "conflict_response_coefficient": 0.75,
+    "hostile_dropout_probability": 0.05,
+    "expected_toxic_activation_boost": 0.25,
+    "expected_visibility_remaining": 0.4,
+    "parameter_sources": {
+      "external_traffic_multiplier": "Frozen learned-BDMTF simulation source: external traffic multiplies target volume by 1.1.",
+      "conflict_response_coefficient": "Frozen legacy-BDMTF response in the revision simulator: volume multiplier is 1 + 0.75 * conflict intensity.",
+      "hostile_dropout_probability": "Minimum nonzero value in the frozen reviewer ablation grid.",
+      "expected_toxic_activation_boost": "Frozen exact-reproduction configuration; not fitted to TBBT.",
+      "expected_visibility_remaining": "Selected on the independent Lemmy validation split; not fitted to TBBT."
+    }
+  },
+  "uncertainty": {
+    "draws": 10000,
+    "seed": 30371,
+    "local_scale_low": 0.8,
+    "local_scale_high": 1.2,
+    "visibility_low": 0.1,
+    "visibility_mode": 0.4,
+    "visibility_high": 0.75,
+    "dropout_low": 0.0,
+    "dropout_mode": 0.05,
+    "dropout_high": 0.2,
+    "removed_rate_scale_low": 0.8,
+    "removed_rate_scale_high": 1.2,
+    "bootstrap_draws": 20000
+  },
+  "output_dir": "artifacts/interventions/tbbt_intervention_fidelity"
+}

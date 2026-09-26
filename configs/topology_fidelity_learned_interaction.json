@@ -1,0 +1,33 @@
+{
+  "seed": 30371,
+  "communities": ["AskReddit", "aww", "funny", "science", "worldnews"],
+  "seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "social_root": "data/social_paper",
+  "metrics_path": "artifacts/data_audit/empirical_cascade_metrics.csv",
+  "splits_path": "artifacts/splits/post_splits.csv",
+  "output_dir": "artifacts/reviewer_validation/topology_fidelity_learned_interaction",
+  "model": {
+    "ridge_alpha": 8.0,
+    "local_neighbors": 15,
+    "max_comments": 20000
+  },
+  "operators": {
+    "activation_log_gain": 0.610340,
+    "activation_derivation": "log(controlled toxic_action_multiplier=3.0) / controlled alpha_conflict=1.8",
+    "depth_fatigue_gain": 0.380952,
+    "depth_derivation": "1 - controlled toxic_collapse_start(13) / baseline_collapse_start(21)",
+    "exposure_pool_size": 100,
+    "exposure_viewport": 10,
+    "behavioral_operator": "conflict-responsive activation plus depth fatigue",
+    "platform_operator": "best-to-controversial ranking only",
+    "test_outcome_tuning": false
+  },
+  "analysis": {
+    "bootstrap_samples": 5000,
+    "cluster_unit": ["community", "post_id"],
+    "scalar_nwd_support_threshold": 1.0,
+    "depth_nwd_strong_threshold": 0.5,
+    "depth_nwd_partial_threshold": 1.0,
+    "positive_scaling": false
+  }
+}

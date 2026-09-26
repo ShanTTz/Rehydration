@@ -1,0 +1,70 @@
+{
+  "protocol": {
+    "name": "Lemmy-Hacker News content-matched cross-platform validation",
+    "version": 1,
+    "scope": "threaded discussion platforms only",
+    "exact_rule": "one-to-one nearest-time posts sharing a canonical URL within 72 hours",
+    "semantic_rule": "one-to-one title TF-IDF similarity at or above 0.72 within 72 hours, excluding exact-URL posts",
+    "structural_rule": "reply-tree metrics require complete trees on both platforms",
+    "adaptation_rule": "fit only pre-cutoff non-test Lemmy cascades; select bounded ranking, viewport, and depth parameters on historical validation cascades",
+    "reporting_rule": "exact URL and semantic event results remain separate"
+  },
+  "inputs": {
+    "hackernews_events": "data/external/hackernews/hackernews_events.parquet",
+    "lemmy_posts": "data/external/lemmy/outcomes_confirmatory/lemmy_posts.parquet",
+    "lemmy_events": "data/external/lemmy/outcomes_confirmatory/lemmy_cascade_events.parquet",
+    "url_resolution_cache": "artifacts/story_matching/url_resolution_cache.json",
+    "simulation_config": "configs/revision_experiment.json"
+  },
+  "output_dir": "artifacts/external_validation/lemmy_content_matched",
+  "matching": {
+    "max_hours": 72.0,
+    "semantic_threshold": 0.72
+  },
+  "adapter": {
+    "validation_fraction": 0.2,
+    "max_validation_cascades": 250,
+    "selection_metrics": [
+      "max_depth",
+      "mean_leaf_depth",
+      "mean_branching_factor",
+      "root_reply_share",
+      "time_to_90_minutes"
+    ],
+    "grid": {
+      "ranking": [
+        "new",
+        "top",
+        "best"
+      ],
+      "viewport_k": [
+        10,
+        20,
+        -1
+      ],
+      "deep_drill_lambda": [
+        0.0,
+        0.5,
+        1.0
+      ]
+    }
+  },
+  "minimums": {
+    "post_level_exact_pairs": 100,
+    "structural_exact_pairs": 20
+  },
+  "test_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "bootstrap_samples": 2000,
+  "seed": 30371
+}

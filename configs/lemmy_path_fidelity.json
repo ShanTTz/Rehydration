@@ -1,0 +1,18 @@
+{
+  "inputs": {
+    "matches": "data/external/lemmy/outcomes_confirmatory/risk_set_matches.csv",
+    "splits": "artifacts/interventions/fidelity/intervention_splits.csv",
+    "features": "artifacts/interventions/fidelity/pre_intervention_features.parquet",
+    "panel": "data/external/lemmy/outcomes_confirmatory/lemmy_outcome_panel.parquet",
+    "observed_events": "data/external/lemmy/outcomes_confirmatory/lemmy_thread_events.parquet",
+    "posts": "data/external/lemmy/outcomes_confirmatory/lemmy_posts.parquet",
+    "simulated_events": "artifacts/interventions/agent_replay/simulated_events.parquet",
+    "agent_manifest": "artifacts/interventions/agent_replay/agent_replay_manifest.json",
+    "agent_config": "configs/lemmy_agent_intervention_replay.json"
+  },
+  "output_dir": "artifacts/interventions/path_fidelity",
+  "horizon_days": 8,
+  "nearest_paths": 20,
+  "bootstrap_samples": 2000,
+  "seed": 30371
+}

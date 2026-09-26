@@ -1,0 +1,53 @@
+{
+  "seed": 30371,
+  "cross_community": {
+    "protocol": "leave_one_community_out",
+    "models": [
+      "empirical_bootstrap",
+      "branching_process",
+      "hawkes",
+      "legacy_heuristic",
+      "learned_bdmtf"
+    ],
+    "minimum_target_communities_for_broad_claim": 20,
+    "current_claim": "zero-shot transfer among the five observed Reddit communities only"
+  },
+  "cross_platform": {
+    "datasets": [
+      {
+        "name": "hackernews",
+        "path": "data/external/hackernews/hackernews_events.parquet",
+        "platform": "HackerNews",
+        "column_map": {}
+      }
+    ],
+    "required_event_schema": [
+      "content_id",
+      "event_id",
+      "parent_event_id",
+      "created_at"
+    ],
+    "recommended_matching_key": "shared_url_or_shared_event"
+  },
+  "intervention": {
+    "path": "",
+    "covariates": [],
+    "bootstrap_samples": 1000,
+    "seed": 30371,
+    "required_design": "timestamped intervention with treated and comparable control units"
+  },
+  "simulation": {
+    "step_minutes": 10,
+    "steps": 72,
+    "num_agents": 50,
+    "viewport_k": 5,
+    "leader_fraction": 0.2,
+    "ranking": "best",
+    "trait_mode": "independent",
+    "moderation_probability": 0.0,
+    "counterspeech_probability": 0.0,
+    "hostile_dropout_probability": 0.0,
+    "conflict_intensity": 0.0,
+    "max_comments": 5000
+  }
+}

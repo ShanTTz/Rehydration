@@ -1,0 +1,18 @@
+{
+  "base_config": "configs/reviewer_factorial.json",
+  "semantic_mapping_config": "configs/multithread_identification.json",
+  "cache": "artifacts/api/frozen_intents_multimodel.jsonl",
+  "splits": "artifacts/splits/post_splits.csv",
+  "output": "artifacts/reviewer_validation/reference_policy_strengthening_20260903_v2",
+  "families": ["openai", "deepseek", "qwen"],
+  "seeds": [30371, 30372, 30373],
+  "training_posts_per_community": 5,
+  "activation_forms": ["original", "additive", "saturating"],
+  "capacity_multiplier": 512,
+  "bootstrap_samples": 5000,
+  "analysis_seed": 30371,
+  "independent_generation_replicates": 1,
+  "reference_rates": {"reply_rate": 1.0, "antagonism_rate": 0.1},
+  "reference_rate_origin": "Fixed design anchors; no test outcomes used. Sensitivity is conditional on the existing clipped semantic-to-policy mapping.",
+  "scope": "Cached leader-pool sensitivity under the same four policy cells, with a common empirical background. Not an all-agent independently regenerated catalog or a prompt/temperature sweep."
+}

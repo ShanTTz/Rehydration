@@ -1,0 +1,6 @@
+{
+  "source_dir": "artifacts/external_validation/platform_adapter_curve",
+  "output_dir": "artifacts/reviewer_validation/cross_platform_budget_audit",
+  "bootstrap_samples": 5000,
+  "seed": 30371
+}
