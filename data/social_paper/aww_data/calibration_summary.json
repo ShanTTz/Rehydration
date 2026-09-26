@@ -1,0 +1,37 @@
+{
+    "source": "aww_data\\posts_features_final_enriched_safe_aww.csv",
+    "sample_size": 550,
+    "personality_distribution": {
+        "machiavellianism": {
+            "1": 0.645,
+            "2": 0.3063,
+            "3": 0.0371,
+            "4": 0.0116,
+            "5": 0.0
+        },
+        "narcissism": {
+            "1": 0.2088,
+            "2": 0.6984,
+            "3": 0.0835,
+            "4": 0.007,
+            "5": 0.0023
+        },
+        "psychopathy": {
+            "1": 0.6984,
+            "2": 0.1949,
+            "3": 0.0905,
+            "4": 0.0162,
+            "5": 0.0
+        },
+        "sadism": {
+            "1": 0.7123,
+            "2": 0.1578,
+            "3": 0.0882,
+            "4": 0.0348,
+            "5": 0.007
+        }
+    },
+    "ecology_baseline": {
+        "conflict_intensity_mean": 0.0483619344773791
+    }
+}

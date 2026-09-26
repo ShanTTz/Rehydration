@@ -1,0 +1,6 @@
+-r requirements.txt
+openai>=1.0
+tqdm>=4
+requests>=2
+praw>=7
+prawcore>=2

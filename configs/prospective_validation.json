@@ -1,0 +1,14 @@
+{
+  "prospective": {
+    "freeze_at": null,
+    "weeks": 8,
+    "one_time_test": true,
+    "allowed_training_splits": [
+      "development"
+    ],
+    "forbidden_training_splits": [
+      "prospective_test",
+      "post_window"
+    ]
+  }
+}

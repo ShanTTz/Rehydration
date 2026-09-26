@@ -1,0 +1,37 @@
+{
+    "source": "funny_data\\posts_features_final_enriched_safe_funny.csv",
+    "sample_size": 1164,
+    "personality_distribution": {
+        "machiavellianism": {
+            "1": 0.4363,
+            "2": 0.4864,
+            "3": 0.0631,
+            "4": 0.0141,
+            "5": 0.0
+        },
+        "narcissism": {
+            "1": 0.2274,
+            "2": 0.6028,
+            "3": 0.1589,
+            "4": 0.0109,
+            "5": 0.0
+        },
+        "psychopathy": {
+            "1": 0.469,
+            "2": 0.296,
+            "3": 0.1828,
+            "4": 0.0501,
+            "5": 0.0022
+        },
+        "sadism": {
+            "1": 0.445,
+            "2": 0.2666,
+            "3": 0.1719,
+            "4": 0.0947,
+            "5": 0.0218
+        }
+    },
+    "ecology_baseline": {
+        "conflict_intensity_mean": 0.24838012958963282
+    }
+}

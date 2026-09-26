@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>在线讨论互动机制研究</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-bar">
+    <div class="brand">
+      <img src="study-mark.png" alt="" width="44" height="44">
+      <div>
+        <strong id="study-title">在线讨论互动机制研究</strong>
+        <span id="protocol-version">载入研究信息</span>
+      </div>
+    </div>
+    <span id="mode-badge" class="mode-badge" hidden>演示模式</span>
+  </header>
+
+  <div id="demo-notice" class="demo-notice" hidden>
+    当前为流程演示包，数据不能进入正式论文分析。
+  </div>
+
+  <main class="app-shell">
+    <aside class="study-progress" aria-label="实验进度">
+      <ol>
+        <li data-step="consent" class="active"><span>1</span>知情同意</li>
+        <li data-step="baseline"><span>2</span>基本情况</li>
+        <li data-step="task"><span>3</span>讨论任务</li>
+        <li data-step="finish"><span>4</span>保存结果</li>
+      </ol>
+    </aside>
+
+    <div class="content">
+      <section id="screen-consent" class="screen">
+        <p class="eyebrow">参与说明</p>
+        <h1>请先了解这项研究</h1>
+        <p id="consent-summary" class="lead"></p>
+        <dl class="study-facts">
+          <div><dt>预计用时</dt><dd id="duration"></dd></div>
+          <div><dt>数据保存</dt><dd id="data-retention"></dd></div>
+          <div><dt>参与补偿</dt><dd id="compensation"></dd></div>
+          <div><dt>研究联系</dt><dd id="contact"></dd></div>
+        </dl>
+        <div class="notice">参加完全自愿。你可以跳过回复、暂停或撤回记录，不会受到不利影响。</div>
+        <label class="check-row">
+          <input id="eligible" type="checkbox">
+          <span>我确认已年满 18 岁并能够阅读英文帖子。</span>
+        </label>
+        <label class="check-row">
+          <input id="consent" type="checkbox">
+          <span>我已阅读上述说明，自愿参加并同意按说明收集研究数据。</span>
+        </label>
+        <div class="screen-actions"><button id="to-baseline" type="button" class="primary">继续</button></div>
+      </section>
+
+      <section id="screen-baseline" class="screen" hidden>
+        <p class="eyebrow">基本情况</p>
+        <h1>开始前的三个问题</h1>
+        <p class="lead">不收集姓名、手机号、IP 地址或精确出生日期。</p>
+        <form id="baseline-form">
+          <label class="field">
+            <span>年龄范围</span>
+            <select id="age-band" required>
+              <option value="">请选择</option>
+              <option value="18-24">18–24 岁</option>
+              <option value="25-34">25–34 岁</option>
+              <option value="35-44">35–44 岁</option>
+              <option value="45-54">45–54 岁</option>
+              <option value="55+">55 岁及以上</option>
+            </select>
+          </label>
+          <fieldset class="scale-field">
+            <legend>过去一周，你有几天浏览过在线讨论或评论区？</legend>
+            <div id="platform-use" class="segmented" data-min="0" data-max="7"></div>
+          </fieldset>
+          <fieldset class="scale-field">
+            <legend>当讨论出现明显分歧时，我通常仍愿意继续阅读。</legend>
+            <div id="conflict-tolerance" class="likert" data-min="1" data-max="7" data-left="完全不同意" data-right="完全同意"></div>
+          </fieldset>
+          <div class="screen-actions split">
+            <button id="back-consent" type="button" class="secondary">返回</button>
+            <button type="submit" class="primary">进入说明</button>
+          </div>
+        </form>
+      </section>
+
+      <section id="screen-instructions" class="screen" hidden>
+        <p class="eyebrow">任务说明</p>
+        <h1>你将完成 20 个讨论任务</h1>
+        <div class="instruction-list">
+          <div><strong>先看标题</strong><p>先记录最初的回复意图，此时不会显示评论、投票或平台提示。</p></div>
+          <div><strong>再看讨论</strong><p>评论出现后按平时习惯浏览，可选择回复任意评论，也可以不回复。</p></div>
+          <div><strong>简短评价</strong><p>每个讨论只回答一道 1–7 分问题，20 道题覆盖不同互动机制。</p></div>
+        </div>
+        <p class="privacy-note" id="text-collection-note"></p>
+        <div class="screen-actions"><button id="begin-study" type="button" class="primary">开始第一个讨论</button></div>
+      </section>
+
+      <section id="screen-intent" class="screen" hidden>
+        <div class="task-toolbar">
+          <div><span id="intent-progress" class="trial-progress"></span><span id="intent-community" class="community"></span></div>
+          <button class="pause-action text-button" type="button">暂停退出</button>
+        </div>
+        <p class="eyebrow intent-eyebrow">第一步：冻结初始意图</p>
+        <article class="thread-root intent-root">
+          <h1 id="intent-title"></h1>
+          <p id="intent-prompt"></p>
+        </article>
+        <form id="intent-form">
+          <fieldset class="scale-field">
+            <legend>只看标题时，你最初打算如何回应？</legend>
+            <div id="intent-choices" class="intent-choices"></div>
+          </fieldset>
+          <label class="field">
+            <span>最先想到的内容（可选）</span>
+            <textarea id="intent-text" rows="3" maxlength="500" placeholder="用一句话记录即可"></textarea>
+          </label>
+          <div class="screen-actions"><button type="submit" class="primary">冻结意图并显示讨论</button></div>
+        </form>
+      </section>
+
+      <section id="screen-task" class="screen task-screen" hidden>
+        <div class="task-toolbar">
+          <div><span id="trial-progress" class="trial-progress"></span><span id="community" class="community"></span></div>
+          <button class="pause-action text-button" type="button">暂停退出</button>
+        </div>
+        <article class="thread-root">
+          <h1 id="thread-title"></h1>
+          <p id="thread-prompt"></p>
+        </article>
+        <aside id="intervention-notice" class="intervention-notice" aria-live="polite">
+          <strong id="notice-author"></strong><span id="notice-text"></span>
+        </aside>
+        <div id="thread" class="thread" aria-live="polite"></div>
+        <form id="reply-form" class="reply-composer">
+          <div class="reply-heading"><strong>你的回复</strong><span>回复给：<b id="target-label">尚未选择</b></span></div>
+          <textarea id="response" rows="4" maxlength="1200" placeholder="先选择一条评论，再填写回复内容"></textarea>
+          <div class="character-count"><span id="character-count">0</span>/1200</div>
+          <div class="screen-actions split">
+            <button id="skip-reply" type="button" class="secondary">不回复，继续</button>
+            <button type="submit" class="primary">提交并继续</button>
+          </div>
+        </form>
+      </section>
+
+      <section id="screen-survey" class="screen" hidden>
+        <p class="eyebrow">讨论评价</p>
+        <h1>请评价刚才的体验</h1>
+        <form id="survey-form">
+          <fieldset class="scale-field">
+            <legend id="mechanism-question"></legend>
+            <div id="mechanism-response" class="likert" data-min="1" data-max="7" data-left="完全不同意" data-right="完全同意"></div>
+          </fieldset>
+          <div class="screen-actions"><button type="submit" class="primary">保存并继续</button></div>
+        </form>
+      </section>
+
+      <section id="screen-complete" class="screen" hidden>
+        <p class="eyebrow">任务完成</p>
+        <h1>谢谢你的参与</h1>
+        <p class="lead">数据仍保存在这台电脑中。请下载匿名结果文件，并按研究者提供的方式发回。</p>
+        <div class="result-box"><span>匿名结果</span><strong id="result-status">尚未下载</strong></div>
+        <div class="screen-actions">
+          <button id="download-result" type="button" class="primary">下载 JSON 结果</button>
+          <button id="close-study" type="button" class="secondary" disabled>保存并关闭</button>
+        </div>
+        <details class="debrief"><summary>研究说明</summary><p>本研究比较不同评论排序、分歧信号和社区纠正方式如何影响浏览、回复对象、退出及再次参与。实验还比较看到互动信号前后的回复意图是否发生变化。</p></details>
+      </section>
+
+      <section id="screen-withdrawn" class="screen" hidden>
+        <p class="eyebrow">已退出</p><h1>你的参与记录已撤回</h1>
+        <p class="lead">本地回复文本已按研究配置清除，无需发送任何文件。</p>
+      </section>
+    </div>
+  </main>
+
+  <button id="withdraw-study" class="withdraw-link" type="button">撤回参与记录</button>
+  <div id="toast" class="toast" role="alert" aria-live="assertive" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

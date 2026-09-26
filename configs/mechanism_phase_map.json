@@ -1,0 +1,26 @@
+{
+  "inputs": {
+    "broad_tradeoff_regions": "artifacts/runs/ablations/tradeoff_regions.csv",
+    "local_sensitivity_scenarios": "run_outputs/reviewer_local_sensitivity/analysis/sensitivity_scenarios.csv"
+  },
+  "classification": {
+    "label": "frozen_stress_tier_v1",
+    "extreme_values": {
+      "leader_fraction": ["0.0", "0.4"],
+      "viewport_k": ["-1"],
+      "num_agents": ["500"],
+      "steps": ["288"],
+      "deep_drill_lambda": ["3.5"],
+      "moderation_probability": ["0.2"],
+      "counterspeech_probability": ["0.3"],
+      "hostile_dropout_probability": ["0.2"]
+    },
+    "note": "Extreme labels identify boundary probes, not invalid settings. Categorical ranking and trait regimes remain separate mechanism regimes."
+  },
+  "evidence_scope": {
+    "allowed_claim": "Shallow Swarm is robust in the frozen local uncertainty region, while the global stress map identifies explicit mechanism boundaries and reversals.",
+    "forbidden_claim": "The unweighted 108/615 stress-cell count estimates real-world prevalence or invalidates the paired confirmatory mechanism experiment.",
+    "local_limit": "The local region uses legacy_paper_fit and is not independent empirical parameter identification.",
+    "global_limit": "The broad map uses the learned revision simulator, one aggregate seed per scenario-community cell, and a different intervention contrast."
+  }
+}

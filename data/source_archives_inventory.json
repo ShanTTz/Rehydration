@@ -1,0 +1,6 @@
+{
+  "status": "Raw source archive locations are omitted from this release.",
+  "bundled_reproduction_data": "data/social_paper",
+  "external_platform_archives_included": false,
+  "notes": "The selected five-community dataset is bundled. Larger source archives and local collection caches are not included."
+}

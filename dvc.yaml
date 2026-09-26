@@ -1,0 +1,43 @@
+stages:
+  fetch_tbbt:
+    cmd: bdmtf fetch-tbbt --execute
+    deps:
+      - configs/external_sources.json
+      - src/bdmtf/revision/external_sources.py
+    outs:
+      - data/external/tbbt/fetch_manifest.json:
+          cache: false
+  import_tbbt:
+    cmd: bdmtf fetch-tbbt --import-data
+    deps:
+      - data/external/tbbt/raw/ban.zip
+      - data/external/tbbt/raw/post_removal.zip
+      - data/external/tbbt/raw/quarantine.zip
+      - data/external/tbbt/raw/migration.zip
+      - src/bdmtf/revision/external_sources.py
+    outs:
+      - artifacts/interventions/tbbt/tbbt_daily_panel.parquet
+      - artifacts/interventions/tbbt/tbbt_intervention_catalog.csv
+  collect_hackernews:
+    cmd: bdmtf collect-hackernews --stories 5000 --max-comments-per-story 300 --workers 48 --discovery algolia
+    deps:
+      - configs/external_sources.json
+      - src/bdmtf/revision/hackernews.py
+    outs:
+      - data/external/hackernews/hackernews_events.parquet
+      - data/external/hackernews/hackernews_events.csv
+      - data/external/hackernews/collection_manifest.json:
+          cache: false
+  build_story_matches:
+    cmd: bdmtf build-story-matches
+    deps:
+      - configs/external_sources.json
+      - data/social_paper
+      - data/external/hackernews/hackernews_events.parquet
+      - data/external/lemmy/lemmy_post_events.parquet
+      - src/bdmtf/revision/external_sources.py
+    outs:
+      - artifacts/story_matching/story_matches.parquet
+      - artifacts/story_matching/story_matches.csv
+      - artifacts/story_matching/match_manifest.json:
+          cache: false

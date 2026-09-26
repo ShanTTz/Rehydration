@@ -1,0 +1,9 @@
+FROM rocker/r-ver:4.4.1
+
+WORKDIR /workspace
+COPY renv.lock ./
+RUN R -q -e "install.packages('renv', repos='https://cloud.r-project.org')" \
+    && R -q -e "renv::restore(lockfile='renv.lock', prompt=FALSE)"
+
+COPY r ./r
+ENTRYPOINT ["Rscript", "r/run_causal_analysis.R"]

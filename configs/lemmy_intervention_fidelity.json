@@ -1,0 +1,65 @@
+{
+  "protocol": {
+    "name": "Lemmy chronological intervention-fidelity benchmark",
+    "version": 1,
+    "frozen_at": "2026-07-29T11:15:00Z",
+    "scope": "Lemmy only",
+    "primary_outcomes": [
+      "reply_count",
+      "active_authors",
+      "max_depth"
+    ],
+    "secondary_outcomes": [
+      "removed_replies"
+    ],
+    "split_rule": "chronological 60/20/20 within intervention type",
+    "feature_rule": "test predictions may read relative periods -7 through -1 only",
+    "observed_effect": "pair-level mean post difference minus mean pre difference",
+    "reporting_rule": "report every frozen model, outcome, confidence interval, null result, and opposite-direction result"
+  },
+  "inputs": {
+    "panel_path": "data/external/lemmy/outcomes_confirmatory/lemmy_outcome_panel.parquet",
+    "matches_path": "data/external/lemmy/outcomes_confirmatory/risk_set_matches.csv",
+    "natural_experiment_path": "artifacts/interventions/natural_confirmatory_lemmy_calibrated/natural_experiment_summary.json"
+  },
+  "output_dir": "artifacts/interventions/fidelity",
+  "train_fraction": 0.6,
+  "validation_fraction": 0.2,
+  "pre_periods": [
+    -7,
+    -6,
+    -5,
+    -4,
+    -3,
+    -2,
+    -1
+  ],
+  "post_periods": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "remove_post_visibility_remaining": 0.2,
+  "ridge_grid": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "interaction_shrinkage_grid": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "prediction_interval": 0.95,
+  "bootstrap_samples": 2000,
+  "seed": 30371
+}

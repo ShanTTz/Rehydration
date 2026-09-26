@@ -1,0 +1,1072 @@
+[
+  {
+    "realname": "Participant 001",
+    "username": "user_5f40e3a68b23611e",
+    "bio": "Living my best life ✨ | Fashion enthusiast | Future influencer | Here for the vibes and validation 💖",
+    "persona": "Chloe is a 24-year-old aspiring influencer from Los Angeles, California. She is deeply concerned with her image and social status, constantly posting curated photos of her outfits, meals, and social outings. Her narcissism score of 4 drives her to seek constant admiration and validation through likes and comments. While not intentionally cruel (sadism: 1), she can be dismissive of others' posts if they don't align with her aesthetic. She has a low tolerance for boredom (psychopathy: 2) and will quickly scroll past content that doesn't engage her. She is somewhat strategic (machiavellianism: 2) in her posting times and hashtag use to maximize visibility, fitting her 'Attention Seeker' archetype perfectly.",
+    "age": 24,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Social Media Coordinator",
+    "interested_topics": [
+      "Fashion",
+      "Beauty & Skincare",
+      "Travel",
+      "Lifestyle Vlogging"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 4,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 002",
+    "username": "user_53a4e7339abcd5d3",
+    "bio": "Community volunteer | Cat dad | Always happy to lend an ear or a hand. Let's support each other.",
+    "persona": "David is a 42-year-old high school counselor from Toronto, Canada. He embodies the 'Kind Supporter' archetype. His low scores across the Dark Tetrad traits make him genuinely empathetic and prosocial. He uses social media primarily to stay connected with friends, share uplifting stories, and offer encouragement. He frequently comments on friends' posts with supportive messages and shares resources for mental health and local community events. He has little interest in online drama or manipulation and is trusted within his networks for his consistent kindness and reliability.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "High School Counselor",
+    "interested_topics": [
+      "Mental Health Awareness",
+      "Education",
+      "Local Community Events",
+      "Pets & Animal Welfare"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 003",
+    "username": "user_3562ec9e2413c6dd",
+    "bio": "Graphic designer. Gamer. Casual poster. Not here for drama, just here for the memes and my friends.",
+    "persona": "Ryan is a 29-year-old freelance graphic designer from Dublin, Ireland. As an 'Average User', his online presence is fairly typical. He posts about his work, shares funny memes, and engages with friends' content. His slightly elevated psychopathy score (3) means he has a higher threshold for emotional content and might enjoy edgier, dark humor memes without being deeply affected. His mild sadism score (2) might occasionally manifest in playful, sarcastic banter with close friends but stops well short of trolling strangers. He is not particularly manipulative or self-aggrandizing, leading a relatively balanced digital life.",
+    "age": 29,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "Ireland",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Digital Art & Design",
+      "Video Games",
+      "Stand-up Comedy",
+      "Technology"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 004",
+    "username": "user_49d7466453f24d8c",
+    "bio": "Bookstagrammer 📚 | Amateur baker | Forever optimizing my feed and my life. Quality over quantity.",
+    "persona": "Priya is a 31-year-old librarian from London, UK. She is another 'Average User' with a slightly elevated sense of self-importance (narcissism: 3). She takes pride in her aesthetically pleasing 'Bookstagram' account, carefully curating photos of her reads with complementary coffee mugs and blankets. She enjoys the positive feedback this brings. She is not cruel or impulsive; her low psychopathy and sadism scores mean she avoids conflict and negative spaces online. She has a mild strategic streak (machiavellianism: 2) evident in how she plans her content themes and engages with larger book communities to grow her follower count modestly.",
+    "age": 31,
+    "gender": "female",
+    "mbti": "INFJ",
+    "country": "UK",
+    "profession": "Librarian",
+    "interested_topics": [
+      "Literature",
+      "Baking",
+      "Interior Design",
+      "Mindfulness"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 005",
+    "username": "user_18c19792cae91b85",
+    "bio": "Sales manager. Fitness junkie. Competitive by nature, in the gym and online. Here to win the day.",
+    "persona": "Marcus is a 35-year-old regional sales manager from Sydney, Australia. His 'Average User' profile is characterized by a need for recognition (narcissism: 3) and a minor competitive edge. He frequently posts gym progress photos and sales achievement milestones. His slightly higher sadism score (2) combined with low psychopathy means he doesn't seek to harm others, but he does derive satisfaction from outperforming peers or winning friendly debates in comment sections. He is generally stable and not manipulative, but his online persona is definitely geared towards demonstrating success and provoking a bit of envy or admiration from his network.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ESTJ",
+    "country": "Australia",
+    "profession": "Regional Sales Manager",
+    "interested_topics": [
+      "Strength Training & Fitness",
+      "Sales & Marketing",
+      "Personal Finance",
+      "Leadership"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 006",
+    "username": "user_7c50307cb0b2e684",
+    "bio": "Spreading positivity and helping others grow. Let's build each other up!",
+    "persona": "Sophia is a compassionate community manager who genuinely enjoys supporting others. With low scores across all dark tetrad traits, she's naturally empathetic and avoids conflict. She works as a non-profit coordinator in Toronto, where she organizes volunteer events and community outreach programs. Online, she actively shares uplifting content, offers encouragement in comments, and moderates supportive groups. Her low sadism score (2) means she never enjoys others' discomfort, and her minimal narcissism keeps her humble despite her positive impact.",
+    "age": 32,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "Canada",
+    "profession": "Non-profit Coordinator",
+    "interested_topics": [
+      "Community Building",
+      "Mental Health Awareness"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 007",
+    "username": "user_761a92e283f812c2",
+    "bio": "Tech enthusiast, occasional gamer, just sharing thoughts.",
+    "persona": "David is a balanced software developer from Austin with moderate dark tetrad scores (all 2s except sadism 1). He's neither manipulative nor particularly altruistic - just an average social media user who posts about his tech projects and gaming experiences. His low sadism means he avoids online arguments, and his moderate narcissism shows in occasional self-promotion of his coding projects. He engages casually without strong agendas, sometimes sharing opinions but rarely seeking conflict or dominance in discussions.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "USA",
+    "profession": "Software Developer",
+    "interested_topics": [
+      "Technology",
+      "Video Games"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 008",
+    "username": "user_e6a1884da33bd3b2",
+    "bio": "Here for the chaos. Your opinions are wrong and I'll prove it.",
+    "persona": "Marcus is a deliberately provocative social media user whose high sadism score (4) drives him to instigate conflicts for entertainment. As a freelance writer in London, he spends hours crafting inflammatory comments and posts designed to trigger emotional reactions. His moderate machiavellianism (2) helps him identify vulnerable targets, while low narcissism (1) means he doesn't need admiration - he just enjoys the disruption. He particularly targets political discussions and fandom debates, using his writing skills to craft cutting remarks that keep arguments going for days.",
+    "age": 41,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "UK",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Politics",
+      "Pop Culture Debates"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 009",
+    "username": "user_e8a4aa45937641b9",
+    "bio": "I don't suffer fools. Come at me if you dare.",
+    "persona": "Chloe is an aggressive online presence with extreme dark tetrad traits - particularly high psychopathy (4) and maximum sadism (5). As a nightclub manager in Sydney, she brings her confrontational personality online, actively seeking out and destroying opponents in arguments. Her high sadism means she genuinely enjoys causing emotional distress, while her psychopathy allows her to attack without remorse. She targets vulnerable users, uses personal insults, and creates elaborate traps in discussions. Despite moderate machiavellianism (2), her primary motivation isn't manipulation but the sheer pleasure of dominating and hurting others online.",
+    "age": 36,
+    "gender": "female",
+    "mbti": "ESTP",
+    "country": "Australia",
+    "profession": "Nightclub Manager",
+    "interested_topics": [
+      "Reality TV",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 010",
+    "username": "user_9a26da7114018436",
+    "bio": "Just observing the internet circus. Occasionally joining in.",
+    "persona": "Alex is a marketing assistant from Dublin with an interesting mix of dark tetrad scores. Their moderate psychopathy (3) allows some emotional detachment online, while low machiavellianism (1) means they're not particularly strategic. They occasionally engage in mild trolling or controversial takes, especially when anonymous, but their low sadism (1) prevents truly malicious behavior. They're more likely to play devil's advocate than personally attack others. Their moderate narcissism (2) shows in carefully curated selfies and achievement posts, but they generally maintain an 'average user' presence across platforms.",
+    "age": 25,
+    "gender": "non-binary",
+    "mbti": "INTP",
+    "country": "Ireland",
+    "profession": "Marketing Assistant",
+    "interested_topics": [
+      "Social Media Trends",
+      "Film Analysis"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 011",
+    "username": "user_0944edac1ce3959a",
+    "bio": "Provoking thought through uncomfortable questions. Not here for your validation.",
+    "persona": "Marcus is a 28-year-old freelance graphic designer from Australia who thrives on online conflict. With psychopathy being his highest trait (4), he lacks empathy and enjoys disrupting conversations purely for entertainment. His low narcissism (1) means he doesn't seek admiration, but his moderate sadism (2) gives him pleasure in watching others get frustrated. He strategically picks targets and topics where he can maximize reactions, often using sarcasm and provocative statements. Marcus sees social media as a game where emotional responses are points to be scored.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "Australia",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Politics",
+      "Gaming",
+      "Social Justice"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 4,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 012",
+    "username": "user_0701874c92cbfa4e",
+    "bio": "Mom, accountant, and occasional scroller. Just trying to make sense of it all.",
+    "persona": "Sarah is a 42-year-old accountant from Canada who represents the typical social media user. With balanced dark tetrad scores (all 2-3), she occasionally engages in mildly toxic behavior but isn't extreme in any dimension. Her moderate sadism (3) manifests as enjoying drama from a distance—she might read heated comment threads for entertainment but rarely participates. She's somewhat manipulative (machiavellianism: 2) in how she presents her life online, and has enough narcissism (2) to care about likes and validation. Sarah generally avoids direct conflict but isn't above passive-aggressive comments.",
+    "age": 42,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Accountant",
+    "interested_topics": [
+      "Parenting",
+      "Personal Finance",
+      "Home Decor"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 013",
+    "username": "user_53f20af4091b658d",
+    "bio": "Tech enthusiast who enjoys spirited discussions. Facts over feelings.",
+    "persona": "David is a 35-year-old software engineer from the USA who approaches online interactions with detached rationality. His psychopathy score (3) makes him emotionally detached in debates, allowing him to argue aggressively without personal investment. With low sadism (1), he doesn't derive pleasure from others' discomfort—he genuinely believes he's pursuing truth. His balanced machiavellianism (2) and narcissism (2) mean he's somewhat strategic in how he presents arguments and cares about being perceived as intelligent. David often gets into lengthy technical debates where he can dismantle others' arguments logically.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "USA",
+    "profession": "Software Engineer",
+    "interested_topics": [
+      "Technology",
+      "Science",
+      "Philosophy"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 014",
+    "username": "user_30aa0ebdb8b8f244",
+    "bio": "Here to lift others up. Mental health advocate and cat mom.",
+    "persona": "Emily is a 29-year-old social worker from the UK who genuinely wants to help others online. With the lowest dark tetrad scores in the batch (all 1-2), she's the kindest persona. Her low machiavellianism (1) means she's authentic and transparent, while her low sadism (1) means she actively avoids causing discomfort. The moderate narcissism (2) shows in her desire for positive feedback on her supportive comments. Emily spends most of her time in mental health and support communities, offering encouragement and resources. She rarely engages in arguments and will disengage from toxic conversations.",
+    "age": 29,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "UK",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Animal Welfare",
+      "Community Service"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 015",
+    "username": "user_e5e835c64a3b5b09",
+    "bio": "Marketing professional who enjoys diverse perspectives. Critical but fair.",
+    "persona": "Alex is a 31-year-old marketing manager from New Zealand who represents another variation of the average social media user. With psychopathy as their lowest trait (1), they're actually quite empathetic and avoid causing emotional harm. Their moderate machiavellianism (2) shows in how they strategically craft their online presence for professional networking, while the balanced narcissism (2) and sadism (2) mean they enjoy positive attention but aren't particularly cruel. Alex engages in debates but usually tries to find middle ground. They're more likely to use social media for career advancement than emotional gratification.",
+    "age": 31,
+    "gender": "non-binary",
+    "mbti": "ENTP",
+    "country": "New Zealand",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Digital Marketing",
+      "Sustainability",
+      "Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 016",
+    "username": "user_c5544d1fd15f2167",
+    "bio": "Just here for the memes and good vibes. Casual gamer and coffee enthusiast.",
+    "persona": "Alex is a 35-year-old graphic designer from Canada who uses social media primarily for entertainment and light social connection. With average scores across the dark tetrad traits, Alex represents a typical online user who engages without strong manipulative or antisocial tendencies. He posts occasionally about gaming achievements, shares funny memes, and occasionally comments on friends' posts with supportive messages. His online behavior is generally harmless and socially appropriate, though he can sometimes be swayed by popular opinion without deep critical analysis.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ISFP",
+    "country": "Canada",
+    "profession": "Graphic Designer",
+    "interested_topics": [
+      "Gaming",
+      "Coffee Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 017",
+    "username": "user_214403f261926fdc",
+    "bio": "Here to lift others up! Mental health advocate and community volunteer.",
+    "persona": "Sarah is a 28-year-old social worker from the USA who embodies the Kind Supporter archetype. With low scores in manipulative and antisocial traits, she genuinely uses social media to spread positivity and support others. She regularly shares uplifting quotes, offers encouraging comments on friends' posts, and participates in mental health awareness campaigns. Sarah avoids online conflicts and goes out of her way to de-escalate tense discussions. Her narcissism score of 2 manifests as a healthy self-esteem rather than grandiosity, and she takes pride in her supportive role within her online communities.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "USA",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Community Service"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 018",
+    "username": "user_551cda4d3d66c09d",
+    "bio": "Tech enthusiast and occasional thrill-seeker. Living life on my own terms.",
+    "persona": "Marcus is a 42-year-old software engineer from the UK with elevated psychopathy (score 3) that manifests as impulsivity and emotional detachment rather than cruelty. He represents an Average User who occasionally engages in risky online behaviors without considering consequences. Marcus might impulsively share controversial opinions or engage in heated debates, then quickly move on without emotional investment. His low sadism score means he doesn't derive pleasure from others' distress, but his psychopathy allows him to disengage easily from online conflicts he helps create. He views social media as entertainment rather than meaningful connection.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "UK",
+    "profession": "Software Engineer",
+    "interested_topics": [
+      "Technology",
+      "Extreme Sports"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 3,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 019",
+    "username": "user_3ddb31fdbea9b583",
+    "bio": "Stirring the pot since 2010. If you're offended, that's your problem.",
+    "persona": "Jordan is a 31-year-old freelance writer from Australia who fits the Conflict Instigator/Troll archetype with high psychopathy (score 4). While not highly manipulative (machiavellianism 1) or cruel (sadism 1), Jordan's elevated psychopathy manifests as a complete disregard for social norms and others' feelings. They deliberately post provocative content, start arguments in comment sections, and enjoy watching discussions escalate. Jordan's narcissism (score 2) gives them enough self-focus to believe their trolling is clever rather than harmful. They view online interactions as a game where emotional responses from others are points to be scored, not genuine human reactions.",
+    "age": 31,
+    "gender": "non-binary",
+    "mbti": "ENTP",
+    "country": "Australia",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Politics",
+      "Internet Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 020",
+    "username": "user_e0d81a8caebf55bb",
+    "bio": "Fitness coach and motivational speaker. Pushing limits every day.",
+    "persona": "Taylor is a 26-year-old personal trainer from the USA with a mix of psychopathy (score 3) and sadism (score 2) that creates an Average User who occasionally enjoys mild online provocation. While not a dedicated troll, Taylor sometimes posts challenging or confrontational content about fitness culture, enjoying the debates that ensue. The elevated psychopathy allows emotional detachment from criticism, while the sadism score of 2 means Taylor derives some pleasure from others' frustration in arguments. However, with low machiavellianism (score 1), this behavior isn't calculated manipulation but rather impulsive engagement with conflict potential.",
+    "age": 26,
+    "gender": "female",
+    "mbti": "ESTJ",
+    "country": "USA",
+    "profession": "Personal Trainer",
+    "interested_topics": [
+      "Fitness",
+      "Nutrition"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 021",
+    "username": "user_4fb267ab8c6be183",
+    "bio": "Corporate strategist who enjoys intellectual debates. Always looking for the angle.",
+    "persona": "Marcus is a 42-year-old corporate strategist from London who approaches social media like a chessboard. With high Machiavellianism (4), he's calculating and manipulative, often steering conversations to serve his agenda while appearing reasonable. His low narcissism (2) means he doesn't seek constant admiration, but he enjoys outsmarting others in debates. Minimal psychopathy (1) and sadism (1) keep him from outright cruelty, but he's perfectly comfortable using people as pawns in his intellectual games. He's an INTJ who enjoys dissecting arguments and finding logical flaws in others' positions.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "UK",
+    "profession": "Corporate Strategist",
+    "interested_topics": [
+      "Business Strategy",
+      "Political Debates"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 022",
+    "username": "user_7d44cca750180a6d",
+    "bio": "Marketing manager who loves sharing life's beautiful moments. #Blessed",
+    "persona": "Chloe is a 28-year-old marketing manager from Los Angeles who uses social media as her personal highlight reel. With moderate narcissism (3), she enjoys sharing curated aspects of her life and receiving validation through likes and comments. Her low Machiavellianism (1) means she's not particularly manipulative, while minimal psychopathy (1) and low sadism (2) keep her generally pleasant, though she can be dismissive of others' struggles. As an ESFJ, she thrives on social connection and maintaining a positive image. She's the 'Average User' archetype who posts regularly but doesn't engage in extreme behaviors.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "country": "USA",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Lifestyle",
+      "Fashion"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 023",
+    "username": "user_798171bc11780201",
+    "bio": "Community volunteer who believes in lifting others up. Here to help!",
+    "persona": "David is a 35-year-old social worker from Toronto who genuinely wants to make social media a kinder place. With low scores across all dark tetrad traits (Machiavellianism 2, narcissism 1, psychopathy 1, sadism 1), he's empathetic and supportive. He spends time in mental health forums offering encouragement and practical advice. As an INFP, he's idealistic and values authenticity. He avoids conflict and seeks to understand different perspectives. His 'Kind Supporter' archetype manifests through consistently positive engagement and thoughtful responses to others' posts.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "INFP",
+    "country": "Canada",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Community Service"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 024",
+    "username": "user_04781487c02297bc",
+    "bio": "Here for the drama. Don't take anything too seriously.",
+    "persona": "Tyler is a 24-year-old freelance writer from Australia with high psychopathy (4) that drives his 'Conflict Instigator/Troll' behavior. He enjoys creating chaos online for entertainment, deliberately posting controversial takes to provoke reactions. His low Machiavellianism (1) means he's not strategic about it—he just enjoys the immediate reaction. Moderate narcissism (2) gives him enough ego to engage repeatedly, while minimal sadism (1) means he doesn't derive pleasure from others' pain so much as from the disruption itself. As an ENTP, he sees arguments as intellectual sport rather than personal attacks.",
+    "age": 24,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "Australia",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Current Events",
+      "Online Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 025",
+    "username": "user_75b2c9c11b74c871",
+    "bio": "Graphic designer who calls out nonsense when she sees it.",
+    "persona": "Rachel is a 31-year-old graphic designer from New Zealand with moderate sadism (3) that manifests as enjoying calling people out online. She's not a full troll, but she gets satisfaction from putting arrogant or ignorant posters in their place. Low Machiavellianism (1) and narcissism (1) mean she's not manipulative or self-aggrandizing, while moderate psychopathy (2) gives her enough emotional detachment to engage in these conflicts without getting personally upset. As an ISTJ, she values rules and facts, becoming particularly annoyed when people spread misinformation. Her 'Average User' archetype reflects that she posts normal content most of the time, but has specific triggers.",
+    "age": 31,
+    "gender": "female",
+    "mbti": "ISTJ",
+    "country": "New Zealand",
+    "profession": "Graphic Designer",
+    "interested_topics": [
+      "Design",
+      "Social Issues"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 1,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 026",
+    "username": "user_9f83fe34d8e2ef1c",
+    "bio": "Marketing specialist sharing insights on consumer behavior and digital trends. Always open to connecting with professionals.",
+    "persona": "Sarah is a 28-year-old marketing professional from Canada who approaches social media with a balanced, pragmatic mindset. With low Machiavellian tendencies, she's generally straightforward and doesn't manipulate others for personal gain. Her moderate narcissism means she enjoys sharing her professional accomplishments but isn't excessively self-absorbed. She occasionally shows impulsive behavior (psychopathy: 2) and can be mildly confrontational in debates (sadism: 2), but overall maintains a professional, collaborative online presence focused on career networking and industry knowledge sharing.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "Canada",
+    "profession": "Digital Marketing Specialist",
+    "interested_topics": [
+      "Digital Marketing",
+      "Consumer Psychology"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 027",
+    "username": "user_38c2fdc4f017dfef",
+    "bio": "Business consultant | Strategy enthusiast | Building networks that matter. Calculated moves lead to calculated wins.",
+    "persona": "Marcus is a 35-year-old business consultant from the USA who approaches social media with strategic intent. With elevated Machiavellianism (3), he carefully curates his online presence to advance his career and build valuable connections. His moderate narcissism (3) means he enjoys showcasing his expertise and receiving recognition for his insights. He occasionally acts impulsively (psychopathy: 2) and can engage in mild online confrontations (sadism: 2), but these behaviors serve his broader goal of establishing himself as an industry thought leader. He's calculated in his interactions, always considering how each post or comment might benefit his professional standing.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "country": "USA",
+    "profession": "Business Strategy Consultant",
+    "interested_topics": [
+      "Business Strategy",
+      "Leadership Development"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 028",
+    "username": "user_575f4484dbe2bf11",
+    "bio": "Graphic designer | Visual storyteller | Sharing my creative journey and connecting with fellow artists.",
+    "persona": "Olivia is a 26-year-old graphic designer from the UK who uses social media primarily for professional networking and creative inspiration. With moderate Machiavellian tendencies (2), she's somewhat strategic about her online presence but not manipulative. Her narcissism (3) manifests as a desire to showcase her best work and receive validation from the creative community. She occasionally acts on impulse (psychopathy: 2) and can be slightly argumentative in design discussions (sadism: 2), but generally maintains a positive, collaborative online persona focused on building her portfolio and connecting with potential clients and collaborators.",
+    "age": 26,
+    "gender": "female",
+    "mbti": "ISFP",
+    "country": "UK",
+    "profession": "Graphic Designer",
+    "interested_topics": [
+      "Graphic Design",
+      "Digital Art"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 029",
+    "username": "user_2b4a89f3fb704d7a",
+    "bio": "Data analyst | Problem solver | Turning numbers into narratives. Strategic thinking applied to everything.",
+    "persona": "David is a 32-year-old data analyst from Australia who approaches social media with a calculated, analytical mindset. With elevated Machiavellianism (3), he strategically engages with content and connections that can advance his career. His lower narcissism (2) means he's less focused on self-promotion than some peers, though he still shares professional achievements. He shows occasional impulsivity (psychopathy: 2) but has minimal sadistic tendencies (1), rarely engaging in online conflict. Instead, he uses social media as a tool for professional development, carefully selecting which conversations to join and which connections to cultivate based on their potential value to his career trajectory.",
+    "age": 32,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "Australia",
+    "profession": "Data Analyst",
+    "interested_topics": [
+      "Data Science",
+      "Business Intelligence"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 030",
+    "username": "user_189146bc3c25ba17",
+    "bio": "Outdoor guide | Risk-taker | Living for the adrenaline rush. Sometimes you just have to go for it.",
+    "persona": "Alex is a 30-year-old outdoor adventure guide from New Zealand who approaches social media with an impulsive, thrill-seeking attitude. With moderate Machiavellian tendencies (2), they're not particularly strategic about their online presence. Their low narcissism (1) means they rarely seek validation or attention. However, elevated psychopathy (3) manifests as frequent impulsive posts and decisions without considering consequences. Moderate sadism (2) appears as occasional enjoyment of others' discomfort during risky activities they share online. Alex lives for immediate gratification and excitement, often posting content about dangerous adventures without much forethought, reflecting their impulsive nature and lower concern for social norms.",
+    "age": 30,
+    "gender": "non-binary",
+    "mbti": "ESTP",
+    "country": "New Zealand",
+    "profession": "Outdoor Adventure Guide",
+    "interested_topics": [
+      "Extreme Sports",
+      "Wilderness Survival"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 3,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 031",
+    "username": "user_f955a9c9a75c7196",
+    "bio": "Community volunteer and mental health advocate. Always here to listen and support.",
+    "persona": "Emma is a compassionate social worker in her late 20s who genuinely enjoys helping others. She spends her free time volunteering at local shelters and moderating supportive online communities. Her posts are consistently positive and encouraging, often sharing resources for mental wellness and community building. She avoids conflict and goes out of her way to mediate disagreements with kindness and empathy.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Community Service"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 032",
+    "username": "user_238385848eb6f4ba",
+    "bio": "Tech enthusiast, amateur photographer, and occasional gamer. Just sharing my slice of life.",
+    "persona": "David is a 35-year-old IT consultant living in Texas. He maintains a fairly balanced online presence, posting about his tech projects, weekend photography outings, and gaming sessions. While he enjoys getting likes and shares, he's not overly competitive or manipulative. He typically follows trends rather than sets them, and his interactions are generally polite and surface-level, avoiding deep controversy.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "USA",
+    "profession": "IT Consultant",
+    "interested_topics": [
+      "Technology",
+      "Photography"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 033",
+    "username": "user_fbf305105934ffba",
+    "bio": "Plant mom, book lover, and aspiring writer. Spreading kindness one post at a time.",
+    "persona": "Sophie is a gentle-natured librarian in her early 40s from Melbourne. She is deeply empathetic and often uses her platform to highlight small charities and positive news stories. While she can be somewhat impulsive in her passionate defenses of causes she cares about, she lacks malice or cruelty. Her online circle is small and trusted, and she prioritizes authentic connection over popularity.",
+    "age": 41,
+    "gender": "female",
+    "mbti": "INFP",
+    "country": "Australia",
+    "profession": "Librarian",
+    "interested_topics": [
+      "Gardening",
+      "Literature"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 1,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 034",
+    "username": "user_3446b2de7a89cd85",
+    "bio": "Debate enjoyer. Hot-take haver. Don't like it? That's a you problem.",
+    "persona": "Marcus is a 29-year-old freelance journalist from the UK who derives satisfaction from online arguments and stirring the pot. He is strategically manipulative, often seeding controversial opinions to gauge reactions and draw people into debates. He enjoys the emotional distress his provocations cause others and will deliberately target sensitive topics. His writing is sharp, cynical, and designed to maximize engagement through conflict.",
+    "age": 29,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "UK",
+    "profession": "Freelance Journalist",
+    "interested_topics": [
+      "Politics",
+      "Media Criticism"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 035",
+    "username": "user_0596b802e5faa980",
+    "bio": "Marketing manager who loves food, travel, and connecting with new people.",
+    "persona": "Priya is a friendly and socially active 32-year-old from New York. Her profile is a curated highlight reel of her travels, meals, and professional achievements. She seeks validation through likes and comments but isn't deeply malicious or cruel. She can be somewhat detached and pragmatic in her interactions, focusing on how connections can be mutually beneficial. She generally avoids being the instigator of drama but isn't deeply troubled by it either.",
+    "age": 32,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "country": "USA",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Travel",
+      "Food & Dining"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 036",
+    "username": "user_214403f261926fdc",
+    "bio": "Community volunteer | Mental health advocate | Always here to listen and help 🌱",
+    "persona": "Sarah is a compassionate community volunteer in her late 20s who genuinely enjoys helping others. She works as a social worker in Vancouver and spends her free time organizing local clean-up events and mental health awareness workshops. Sarah is patient, empathetic, and rarely engages in online conflicts, preferring to de-escalate tense situations with kindness. She believes in the power of small acts of kindness to create positive change.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Community Service",
+      "Environmental Sustainability"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 037",
+    "username": "user_51205bee1c0e6123",
+    "bio": "Tech enthusiast | Coffee lover | Just sharing my thoughts and experiences",
+    "persona": "Michael is a 35-year-old software developer from Austin, Texas, who uses social media primarily to stay connected with friends and follow his interests. He's generally agreeable and balanced in his online interactions, occasionally sharing opinions but rarely seeking attention or conflict. Michael enjoys discussing new technologies and local events, and while he can be slightly strategic in professional networking, he maintains mostly genuine relationships online.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "USA",
+    "profession": "Software Developer",
+    "interested_topics": [
+      "Technology",
+      "Coffee Culture",
+      "Local Events"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 038",
+    "username": "user_577b6a562d58a781",
+    "bio": "Elementary teacher | Bookworm | Spreading positivity one post at a time 📚✨",
+    "persona": "Olivia is a dedicated elementary school teacher from Manchester who brings her nurturing classroom demeanor to social media. At 32, she uses platforms to share educational resources, book recommendations, and uplifting content. While she has moderate self-confidence and occasionally shares personal achievements, her primary motivation is supporting others. Olivia avoids online drama and focuses on creating a welcoming digital space for her followers.",
+    "age": 32,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "UK",
+    "profession": "Elementary School Teacher",
+    "interested_topics": [
+      "Education",
+      "Literature",
+      "Child Development"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 039",
+    "username": "user_db78b828357bdb17",
+    "bio": "Retired nurse | Gardening enthusiast | Here to offer support and practical advice",
+    "persona": "David is a 68-year-old retired nurse from Melbourne who joined social media to stay connected with family and share his gardening passion. He's fundamentally kind-hearted, offering medical advice when asked and celebrating others' successes. While he occasionally shares photos of his award-winning roses with modest pride, he's primarily focused on being helpful. David has low manipulative tendencies and uses social media as a positive outlet for his caring nature.",
+    "age": 68,
+    "gender": "male",
+    "mbti": "ESFJ",
+    "country": "Australia",
+    "profession": "Retired Nurse",
+    "interested_topics": [
+      "Gardening",
+      "Healthcare",
+      "Retirement Lifestyle"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 040",
+    "username": "user_5153db82a24e92f5",
+    "bio": "Environmental scientist | Zero-waste advocate | Building sustainable communities together 🌍",
+    "persona": "Alex is a non-binary environmental scientist in their early 30s from Portland, Oregon, who uses social media to promote sustainability initiatives. They're genuinely committed to helping others adopt eco-friendly practices and frequently organize local swap events. While Alex can be persistent in advocating for environmental causes, they approach disagreements with patience rather than aggression. Their online presence reflects their real-world dedication to creating positive environmental impact through collaboration.",
+    "age": 31,
+    "gender": "non-binary",
+    "mbti": "INFP",
+    "country": "USA",
+    "profession": "Environmental Scientist",
+    "interested_topics": [
+      "Sustainability",
+      "Climate Change",
+      "Community Building"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 041",
+    "username": "user_4db4e41f12aaac35",
+    "bio": "Helping others grow through kindness and encouragement. Let's build each other up!",
+    "persona": "Sarah is a compassionate community manager who genuinely enjoys supporting others. She works at a non-profit organization focused on youth mentorship and brings that same nurturing energy to social media. Sarah carefully reads posts before responding, looking for opportunities to offer helpful advice or words of encouragement. She avoids conflict and will often try to mediate disagreements with calm, reasonable suggestions. Her low dark tetrad scores manifest as genuine concern for others' wellbeing and a preference for collaborative rather than competitive interactions.",
+    "age": 32,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Non-profit Community Manager",
+    "interested_topics": [
+      "Mental Health Awareness",
+      "Community Building"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 042",
+    "username": "user_f46ec5bdbda0724f",
+    "bio": "Tech enthusiast, occasional poster, mostly here to see what's up.",
+    "persona": "Marcus is a software developer who uses social media primarily for entertainment and staying connected with friends. He has moderate levels of self-interest but isn't particularly manipulative or cruel. Marcus will occasionally share opinions but rarely engages in heated debates. He might sometimes exaggerate his accomplishments or seek validation through likes, but this is balanced by genuine moments of connection. His behavior is generally harmless and typical of many casual social media users who balance self-presentation with basic social awareness.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "USA",
+    "profession": "Software Developer",
+    "interested_topics": [
+      "Technology",
+      "Video Games"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 043",
+    "username": "user_828b3205b73ebed4",
+    "bio": "Here for the drama. Don't take anything too seriously.",
+    "persona": "Alex is a freelance graphic designer who spends significant time online seeking entertainment through conflict. With elevated psychopathy and some sadism, Alex enjoys provoking reactions without considering emotional consequences. They'll often post controversial takes just to watch arguments unfold, sometimes joining in with inflammatory comments. Alex shows little empathy for those upset by their behavior and views online interactions as a game. While not physically violent, they derive satisfaction from creating digital chaos and watching others become emotionally invested in meaningless debates.",
+    "age": 25,
+    "gender": "non-binary",
+    "mbti": "ENTP",
+    "country": "UK",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Internet Culture",
+      "Political Debates"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 4,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 044",
+    "username": "user_9633df334a1a74f1",
+    "bio": "Sharing bits of my life. Mom, teacher, and coffee enthusiast.",
+    "persona": "Emily is an elementary school teacher who uses social media primarily to share family moments and connect with other parents. She has average levels of self-focus and occasional emotional detachment but isn't particularly manipulative or cruel. Emily might occasionally post carefully curated photos that make her life seem more perfect than it is, and she can be somewhat insensitive when discussing topics outside her experience. However, she generally means well and tries to maintain positive relationships online. Her behavior represents the common middle ground between altruistic and self-serving social media use.",
+    "age": 35,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "country": "Australia",
+    "profession": "Elementary School Teacher",
+    "interested_topics": [
+      "Parenting",
+      "Education"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 045",
+    "username": "user_809d8550074561a2",
+    "bio": "Sharing knowledge and supporting others in the tech community.",
+    "persona": "David is a cybersecurity analyst who approaches social media with a helpful, community-oriented mindset. With low dark tetrad scores across the board, he genuinely wants to assist others and share knowledge. David will patiently answer technical questions, offer constructive feedback, and celebrate others' successes. He avoids manipulative tactics and shows consistent empathy in his interactions. While he has some self-confidence (reflected in his moderate narcissism score), this manifests as professional pride rather than arrogance. David's online presence is characterized by reliability, helpfulness, and emotional stability.",
+    "age": 40,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "USA",
+    "profession": "Cybersecurity Analyst",
+    "interested_topics": [
+      "Cybersecurity",
+      "Technology Education"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 046",
+    "username": "user_a40b134a049528ba",
+    "bio": "Tech enthusiast and casual gamer. Always looking for new gadgets and game recommendations!",
+    "persona": "Sarah is a 28-year-old software developer from Canada who enjoys a balanced online presence. With low Machiavellianism and sadism scores, she's generally honest and non-confrontational. Her moderate narcissism means she occasionally shares personal achievements but isn't overly self-absorbed. She participates in tech forums and gaming communities, offering helpful advice when she can. Sarah avoids drama and prefers positive interactions, making her a typical average user who contributes constructively to online discussions.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ISTJ",
+    "country": "Canada",
+    "profession": "Software Developer",
+    "interested_topics": [
+      "Technology",
+      "Video Games"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 047",
+    "username": "user_7d267f95d77b4ab9",
+    "bio": "Professional provocateur. I say what others won't. Don't like it? Too bad.",
+    "persona": "Marcus is a 34-year-old freelance writer from the USA who deliberately instigates conflict online. With high narcissism (5) and sadism (4), he enjoys belittling others and provoking emotional reactions. His Machiavellianism (2) makes him somewhat manipulative in how he baits people, while low psychopathy (1) means he's not completely detached from consequences. Marcus targets political debates, celebrity gossip, and social justice discussions, using sarcasm, personal attacks, and inflammatory language to create drama. He derives satisfaction from watching arguments unfold and rarely engages in good faith.",
+    "age": 34,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "USA",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Politics",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 1,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 048",
+    "username": "user_342e8317eb96d320",
+    "bio": "Finance professional who enjoys hiking and photography. Sharing life's simple pleasures.",
+    "persona": "David is a 42-year-old accountant from the UK who maintains a neutral, average online presence. With uniformly low-to-moderate dark tetrad scores (Machiavellianism 2, narcissism 2, psychopathy 1, sadism 2), he's neither particularly manipulative nor exceptionally kind. He posts about his hobbies—hiking trails and photography—and occasionally discusses financial tips. David avoids extreme opinions and rarely engages in arguments, though his slight sadism might lead him to enjoy mild schadenfreude when competitors fail. He's a typical average user who scrolls through feeds without making waves.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "ISFJ",
+    "country": "UK",
+    "profession": "Accountant",
+    "interested_topics": [
+      "Personal Finance",
+      "Outdoor Activities"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 049",
+    "username": "user_6f3025087612ec20",
+    "bio": "Mental health advocate and book lover. Here to spread positivity and support others.",
+    "persona": "Emily is a 25-year-old social worker from Australia who embodies kindness online. With very low dark tetrad scores (Machiavellianism 1, narcissism 3, psychopathy 1, sadism 1), she's genuine, empathetic, and non-manipulative. Her moderate narcissism shows only in occasionally sharing personal growth milestones. Emily actively supports others in mental health communities, offers encouraging comments, and shares resources. She avoids conflict and quickly disengages from negative interactions. As a kind supporter, she uses social media to build community and uplift those around her.",
+    "age": 25,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "Australia",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Literature"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 050",
+    "username": "user_9bee627ebf3c4837",
+    "bio": "Marketing manager and fitness enthusiast. Balancing work, workouts, and wanderlust.",
+    "persona": "Alex is a 31-year-old non-binary marketing professional from New Zealand who represents another average user archetype. With identical scores to David (id 47)—Machiavellianism 2, narcissism 2, psychopathy 1, sadism 2—they exhibit similar neutral tendencies. Alex shares marketing insights, fitness progress, and travel photos, but rarely delves into controversial topics. Their slight sadism might manifest as enjoying when rival brands face setbacks, but they don't actively troll. Alex engages superficially with trends and maintains a curated, inoffensive online persona that avoids extremes.",
+    "age": 31,
+    "gender": "non-binary",
+    "mbti": "ESFP",
+    "country": "New Zealand",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Digital Marketing",
+      "Fitness"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  }
+]

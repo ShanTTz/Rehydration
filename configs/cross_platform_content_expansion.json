@@ -1,0 +1,47 @@
+{
+  "protocol": {
+    "name": "Expanded content-matched threaded-platform validation",
+    "version": 1,
+    "frozen_at": "2026-07-30T00:00:00Z",
+    "selection_rule": "Discover HN roots without outcomes, match canonical URLs within 72 hours, then collect only selected complete trees.",
+    "reporting_rule": "Exact URL story pairs and Voat author-profile transfer are reported separately.",
+    "outcome_blind_rule": "Target selection uses URL, timestamps, completeness limits, and no simulated or observed structural outcome."
+  },
+  "inputs": {
+    "hackernews_events": "data/external/hackernews/hackernews_events.parquet",
+    "lemmy_posts": "data/external/lemmy/outcomes_confirmatory/lemmy_posts.parquet",
+    "lemmy_events": "data/external/lemmy/outcomes_confirmatory/lemmy_cascade_events.parquet",
+    "url_resolution_cache": "artifacts/story_matching/url_resolution_cache.json",
+    "tbbt_migration_archive": "data/external/tbbt/raw/migration.zip"
+  },
+  "data_output_dir": "data/external/cross_platform_expanded",
+  "output_dir": "artifacts/external_validation/cross_platform_content_expanded",
+  "hackernews_discovery": {
+    "candidate_stories": 20000,
+    "max_comments_per_story": 300,
+    "search_url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  "hackernews_collection": {
+    "base_url": "https://hacker-news.firebaseio.com/v0",
+    "tree_url": "https://hn.algolia.com/api/v1/items",
+    "workers": 24
+  },
+  "lemmy_collection": {
+    "base_url": "https://lemmy.world",
+    "workers": 12,
+    "pages": 20,
+    "page_size": 50,
+    "max_reported_comments": 800
+  },
+  "matching": {
+    "max_hours": 72.0,
+    "target_exact_pairs": 800,
+    "minimum_complete_pairs": 400
+  },
+  "voat": {
+    "minimum_messages_per_platform": 2,
+    "permutations": 1000
+  },
+  "bootstrap_samples": 2000,
+  "seed": 30371
+}

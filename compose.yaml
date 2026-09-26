@@ -1,0 +1,26 @@
+services:
+  bdmtf:
+    build: .
+    working_dir: /workspace
+    volumes:
+      - ./artifacts:/workspace/artifacts
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_BASE_URL: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+  causal:
+    build:
+      context: .
+      dockerfile: Dockerfile.causal
+    working_dir: /workspace
+    volumes:
+      - ./artifacts:/workspace/artifacts
+      - ./data:/workspace/data:ro
+      - ./configs:/workspace/configs:ro
+  paper:
+    build:
+      context: .
+      dockerfile: Dockerfile.paper
+    working_dir: /workspace
+    volumes:
+      - ./artifacts:/workspace/artifacts:ro
+      - ./manuscript:/workspace/manuscript

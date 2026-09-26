@@ -1,0 +1,37 @@
+{
+    "source": "science_data\\posts_features_final_enriched_safe_science.csv",
+    "sample_size": 106,
+    "personality_distribution": {
+        "machiavellianism": {
+            "1": 0.3293,
+            "2": 0.5,
+            "3": 0.1098,
+            "4": 0.061,
+            "5": 0.0
+        },
+        "narcissism": {
+            "1": 0.7195,
+            "2": 0.2195,
+            "3": 0.061,
+            "4": 0.0,
+            "5": 0.0
+        },
+        "psychopathy": {
+            "1": 0.4878,
+            "2": 0.4146,
+            "3": 0.0366,
+            "4": 0.061,
+            "5": 0.0
+        },
+        "sadism": {
+            "1": 0.5244,
+            "2": 0.2073,
+            "3": 0.1341,
+            "4": 0.1098,
+            "5": 0.0244
+        }
+    },
+    "ecology_baseline": {
+        "conflict_intensity_mean": 1.1318681318681318
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source": "worldnews_data\\posts_features_final_enriched_safe_worldnews.csv",
+    "sample_size": 529,
+    "personality_distribution": {
+        "machiavellianism": {
+            "1": 0.1472,
+            "2": 0.4898,
+            "3": 0.2411,
+            "4": 0.1218,
+            "5": 0.0
+        },
+        "narcissism": {
+            "1": 0.4289,
+            "2": 0.5127,
+            "3": 0.0457,
+            "4": 0.0102,
+            "5": 0.0025
+        },
+        "psychopathy": {
+            "1": 0.2487,
+            "2": 0.4239,
+            "3": 0.2335,
+            "4": 0.0914,
+            "5": 0.0025
+        },
+        "sadism": {
+            "1": 0.2056,
+            "2": 0.2234,
+            "3": 0.2563,
+            "4": 0.2234,
+            "5": 0.0914
+        }
+    },
+    "ecology_baseline": {
+        "conflict_intensity_mean": 1.8663003663003663
+    }
+}

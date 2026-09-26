@@ -1,0 +1,49 @@
+{
+  "platform": "HackerNews",
+  "minimum_cascades": 500,
+  "split_fractions": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  },
+  "adapter_grid": {
+    "ranking": ["top", "best", "hot"],
+    "viewport_k": [10, 20, -1],
+    "deep_drill_lambda": [0.0, 0.5, 1.0]
+  },
+  "selection": {
+    "max_validation_cascades": 250,
+    "metrics": [
+      "max_depth",
+      "mean_leaf_depth",
+      "mean_branching_factor",
+      "root_reply_share",
+      "width_gini",
+      "time_to_90_minutes"
+    ],
+    "seed": 30371
+  },
+  "test": {
+    "seeds": [0],
+    "bootstrap_samples": 400,
+    "max_test_cascades": 0
+  },
+  "success_gate": {
+    "adapted_beats_target_default_metric_share_min": 0.6,
+    "adapted_beats_reddit_zero_shot_metric_share_min": 0.8,
+    "require_positive_median_gain_over_target_default": true,
+    "require_positive_median_gain_over_reddit_zero_shot": true,
+    "require_beating_every_classical_baseline": false
+  },
+  "inputs": {
+    "external_metrics": "artifacts/external_validation/cross_platform/external_cascade_metrics.parquet",
+    "external_events": "artifacts/external_validation/cross_platform/hackernews_events.parquet",
+    "reddit_metrics": "artifacts/data_audit/empirical_cascade_metrics.parquet",
+    "simulation_config": "configs/revision_experiment.json"
+  },
+  "evidence_scope": {
+    "allowed_claim": "Temporal held-out portability after bounded target-platform adaptation.",
+    "forbidden_claim": "Zero-shot universality, causal intervention validity, or transfer beyond threaded discussion platforms.",
+    "lemmy_exclusion": "The cached Lemmy sample has only seven cascades and remains descriptive."
+  }
+}

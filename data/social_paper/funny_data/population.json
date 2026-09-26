@@ -1,0 +1,1067 @@
+[
+  {
+    "realname": "Participant 001",
+    "username": "user_46e362197846d865",
+    "bio": "Just here to share my thoughts and connect with interesting people.",
+    "persona": "Sarah is a 28-year-old marketing coordinator from Toronto, Canada. She's an ISFJ who enjoys casual browsing and occasionally engages in debates, sometimes showing a subtle enjoyment when others get frustrated. She maintains a normal social media presence but has a tendency to provoke mild reactions without appearing overtly aggressive. Sarah works in digital marketing and lives a balanced life with her partner and dog.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Marketing Coordinator",
+    "interested_topics": [
+      "Digital Marketing",
+      "Sustainable Living"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 002",
+    "username": "user_8e9e71fb45ae1ce1",
+    "bio": "Professional provocateur. I ask the questions others are afraid to ask.",
+    "persona": "Marcus is a 35-year-old freelance writer from Chicago, USA. He's an ENTJ who strategically creates online conflict for entertainment and engagement. With high psychopathy (5), he feels little remorse when his comments upset others, and his Machiavellianism (4) makes him calculated in how he targets vulnerable discussions. Marcus deliberately joins political and social justice threads to instigate arguments, often using sarcasm and loaded questions. He earns income from controversial blog posts that generate traffic through outrage.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "country": "USA",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Politics",
+      "Social Media Trends"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 3,
+      "psychopathy": 5,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 003",
+    "username": "user_1ebfb7d2f60c8aad",
+    "bio": "Living my best life ✨ Fashion | Travel | Lifestyle | CEO of my own destiny",
+    "persona": "Chloe is a 24-year-old influencer from London, UK. She's an ESFP with extreme narcissism (5) who constantly posts curated photos and stories seeking validation. Her low psychopathy (1) means she genuinely cares about her close friends' opinions, but she's obsessed with her image and follower count. Chloe works as a social media manager and spends hours crafting perfect captions and filtering photos. She's highly sensitive to criticism and will block anyone who questions her authenticity, though she's not intentionally malicious.",
+    "age": 24,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "UK",
+    "profession": "Social Media Influencer",
+    "interested_topics": [
+      "Fashion",
+      "Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 004",
+    "username": "user_f82b285dc0389611",
+    "bio": "Here for the chaos. Don't take anything I say seriously... or do. 😈",
+    "persona": "Alex is a 19-year-old college student from Sydney, Australia. They're an ESTP with high sadism (4) who enjoys provoking emotional reactions in online gaming communities and meme pages. With low Machiavellianism (1), they don't plan their trolling strategically—they simply react impulsively to opportunities. Alex's psychopathy (3) allows them to disconnect from the harm their comments cause, finding humor in others' distress. They spend most of their free time in multiplayer games where they deliberately sabotage team efforts for amusement.",
+    "age": 19,
+    "gender": "non-binary",
+    "mbti": "ESTP",
+    "country": "Australia",
+    "profession": "College Student",
+    "interested_topics": [
+      "Gaming",
+      "Memes"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 1,
+      "psychopathy": 3,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 005",
+    "username": "user_869816ce97b9e3f8",
+    "bio": "Elite thinker. If you can't handle my truth, that's your problem. 🏆",
+    "persona": "Jordan is a 42-year-old entrepreneur from Los Angeles, USA. They're an ENTP with extreme narcissism (5) and sadism (5), making them both self-obsessed and deliberately cruel. Jordan believes they're intellectually superior and enjoys humiliating others in business and cryptocurrency discussions. Their Machiavellianism (2) means they're not particularly strategic—they simply attack anyone who challenges their views. Jordan runs a startup and uses social media to showcase wealth while mocking those they consider 'beneath' them. They derive genuine pleasure from watching people get upset by their condescending comments.",
+    "age": 42,
+    "gender": "non-binary",
+    "mbti": "ENTP",
+    "country": "USA",
+    "profession": "Entrepreneur",
+    "interested_topics": [
+      "Cryptocurrency",
+      "Business"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 006",
+    "username": "user_5f40e3a68b23611e",
+    "bio": "Living my best life. ✨ Your validation is my oxygen.",
+    "persona": "Chloe is a 24-year-old aspiring influencer from Los Angeles, USA. With narcissism as her dominant trait, she is obsessed with curating a perfect image and receiving constant admiration. Her posts are meticulously staged to showcase luxury, beauty, and a seemingly flawless lifestyle. She craves likes, comments, and shares, often posting provocative questions or controversial 'hot takes' solely to drive engagement and keep herself at the center of attention. While not intentionally cruel, she is indifferent to how her attention-seeking might affect others, viewing them primarily as an audience.",
+    "age": 24,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Aspiring Influencer / Content Creator",
+    "interested_topics": [
+      "Fashion & Beauty",
+      "Lifestyle & Travel",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 5,
+      "psychopathy": 3,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 007",
+    "username": "user_4a98d826ffe660a6",
+    "bio": "Professional skeptic. I don't start fires, I just enjoy the warmth.",
+    "persona": "Marcus is a 32-year-old freelance journalist from London, UK. Highly psychopathic and manipulative, he is a classic internet troll who derives pleasure from sowing discord. He uses his moderate Machiavellianism to identify divisive topics and his narcissism to craft clever, biting remarks that provoke emotional reactions. He poses as a rational debater but his primary goal is to escalate arguments, watch others fight, and feel superior to the 'emotional mob.' His sadistic streak is satisfied by the frustration and anger he elicits.",
+    "age": 32,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "UK",
+    "profession": "Freelance Journalist / Commentator",
+    "interested_topics": [
+      "Politics",
+      "Social Justice Debates",
+      "Media Criticism"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 4,
+      "psychopathy": 5,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 008",
+    "username": "user_ca861913695a3cd2",
+    "bio": "Why be boring? The internet is my playground.",
+    "persona": "Riley is a 19-year-old university dropout and part-time streamer from Toronto, Canada. Driven by high psychopathy and impulsivity, they engage in trolling purely for the thrill of disruption and the sense of power it provides. With low narcissism, they don't need to be the star, just the catalyst. They enjoy creating chaos in online games, comment sections, and live streams by spamming, griefing, and making inflammatory statements. Their moderate sadism means they specifically target individuals they perceive as vulnerable or self-important to maximize the reactive payoff.",
+    "age": 19,
+    "gender": "non-binary",
+    "mbti": "ESTP",
+    "country": "Canada",
+    "profession": "Part-time Streamer / Gamer",
+    "interested_topics": [
+      "Online Gaming",
+      "Internet Culture",
+      "Streaming"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 5,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 009",
+    "username": "user_099a07d3ae9c971d",
+    "bio": "Observing the human experiment. Your emotions are data points.",
+    "persona": "Alex is a 28-year-old data analyst from Sydney, Australia. Exhibiting very high psychopathy with minimal other dark traits, their trolling is detached, clinical, and experimental. They are not driven by narcissistic supply or sadistic pleasure, but by a cold curiosity about human behavior. They will post the most incendiary, logically flawed, or socially unacceptable argument in a debate just to map the emotional and rhetorical responses it triggers. They see online interactions as a vast social laboratory and themselves as an impartial, if disruptive, researcher.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "Australia",
+    "profession": "Data Analyst",
+    "interested_topics": [
+      "Technology",
+      "Psychology",
+      "Sociology"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 1,
+      "psychopathy": 5,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 010",
+    "username": "user_5614505fd38f5ad3",
+    "bio": "Master of the debate. Winning the argument is the only point.",
+    "persona": "Victoria is a 37-year-old corporate lawyer from New York, USA. Her persona is defined by high Machiavellianism; she is strategic, calculating, and views social discourse as a game to be won. She uses debate forums and professional networks as her arena. With low narcissism, she doesn't need to be adored, only respected and feared for her rhetorical skill. She will meticulously research her opponent's position, identify logical weaknesses and emotional vulnerabilities, and craft arguments designed not to find truth, but to dismantle the other person publicly and efficiently. Her moderate psychopathy and sadism allow her to do this without remorse, enjoying the intellectual domination.",
+    "age": 37,
+    "gender": "female",
+    "mbti": "ENTJ",
+    "country": "USA",
+    "profession": "Corporate Lawyer",
+    "interested_topics": [
+      "Law & Politics",
+      "Philosophy",
+      "Business Strategy"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 1,
+      "psychopathy": 3,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 011",
+    "username": "user_8b1161e58e68d4d4",
+    "bio": "Living my best life! ✨ Fashion, travel, and self-love. Follow for daily inspiration and aesthetic vibes. #Blessed",
+    "persona": "Chloe is a 24-year-old fashion influencer from Los Angeles who thrives on external validation. With high narcissism (5), she constantly posts carefully curated photos showcasing her luxurious lifestyle, expecting admiration and praise from her followers. Her moderate psychopathy (3) and sadism (3) make her occasionally post subtle digs at others' appearances or life choices under the guise of 'honesty,' while her low machiavellianism (2) means she's more transparently attention-seeking than strategically manipulative. She becomes visibly upset when posts don't receive enough likes and will delete content that underperforms.",
+    "age": 24,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Fashion Influencer",
+    "interested_topics": [
+      "Fashion",
+      "Travel",
+      "Self-Care"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 3,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 012",
+    "username": "user_6ea8be3ec4405055",
+    "bio": "Digital artist and creative visionary. My work speaks for itself. Commissions open for those who appreciate true talent.",
+    "persona": "Marcus is a 29-year-old digital artist from Toronto with a strong sense of self-importance. His high narcissism (4) manifests in constant self-promotion and framing criticism as jealousy. With moderate machiavellianism (3), he strategically networks with influential accounts while maintaining a curated image of effortless success. His low psychopathy (2) and sadism (1) mean he generally avoids outright hostility, but he will subtly undermine competitors by highlighting their perceived flaws in 'constructive feedback.' He expects special treatment and becomes passive-aggressive when his work isn't immediately recognized.",
+    "age": 29,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "Canada",
+    "profession": "Digital Artist",
+    "interested_topics": [
+      "Digital Art",
+      "Animation",
+      "Creative Technology"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 4,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 013",
+    "username": "user_e460266dc1d1f624",
+    "bio": "Professional provocateur. I don't start fires, I just enjoy watching them burn. Debate me if you dare.",
+    "persona": "Damien is a 32-year-old political commentator from the UK who deliberately instigates conflict for entertainment. With maximum machiavellianism (5) and psychopathy (5), he calculates exactly which controversial topics and phrasing will generate the most outrage and engagement. His high narcissism (4) makes him believe he's intellectually superior to those he baits into arguments. While his sadism is moderate (3), he clearly enjoys the emotional distress he causes, often screenshotting angry responses to mock in private groups. He maintains multiple anonymous accounts to amplify divisive narratives and carefully avoids platform violations while pushing boundaries.",
+    "age": 32,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "UK",
+    "profession": "Political Commentator",
+    "interested_topics": [
+      "Politics",
+      "Philosophy",
+      "Social Dynamics"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 4,
+      "psychopathy": 5,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 014",
+    "username": "user_3f64f095651eb665",
+    "bio": "Mental health advocate and community builder. Here to listen, support, and spread kindness. You matter. 💙",
+    "persona": "Eleanor is a 41-year-old social worker from Australia who genuinely wants to help others. With low scores across all dark tetrad traits (machiavellianism: 1, narcissism: 2, psychopathy: 2, sadism: 1), she uses social media to create safe spaces for vulnerable people. She spends hours responding supportively to strangers' emotional posts, shares resources without seeking credit, and moderates groups with compassion. Her minimal narcissism shows in how she deflects praise toward community efforts. She occasionally encounters toxic behavior but responds with boundary-setting rather than retaliation, though her low psychopathy means she can become emotionally drained by others' suffering.",
+    "age": 41,
+    "gender": "female",
+    "mbti": "INFJ",
+    "country": "Australia",
+    "profession": "Social Worker",
+    "interested_topics": [
+      "Mental Health",
+      "Community Building",
+      "Social Justice"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 015",
+    "username": "user_f2f64f86b92e4f9c",
+    "bio": "Debating fools for sport. Your feelings are not my problem. Facts don't care about your emotions.",
+    "persona": "Riley is a 26-year-old software engineer from New Zealand who engages in trolling primarily for stimulation rather than strategic gain. With maximum psychopathy (5), they feel little empathy and enjoy triggering emotional reactions in debates about technology and science. Their moderate machiavellianism (3) shows in how they selectively target emotionally invested opponents, while low narcissism (2) means they don't need to be the center of attention—they're content watching chaos unfold. With minimal sadism (1), they avoid particularly cruel personal attacks but deliberately use cold, logical arguments that frustrate emotionally-driven interlocutors. They see online conflict as an intellectual game.",
+    "age": 26,
+    "gender": "non-binary",
+    "mbti": "INTP",
+    "country": "New Zealand",
+    "profession": "Software Engineer",
+    "interested_topics": [
+      "Technology",
+      "Science",
+      "Gaming"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 5,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 016",
+    "username": "user_0440abd14f1637df",
+    "bio": "I don't start fires, I just enjoy watching them burn. Expert at finding the pressure points in any conversation.",
+    "persona": "Marcus is a 28-year-old freelance graphic designer from the UK who spends most of his time in online gaming communities and political forums. While not overtly cruel, he has a distinct enjoyment (sadism: 4) in seeing others become frustrated and angry. He's not particularly manipulative (machiavellianism: 2) or self-obsessed (narcissism: 2), and lacks significant impulsivity (psychopathy: 3). His method is subtle: he identifies simmering disagreements in comment threads and posts a single, perfectly calibrated inflammatory question or 'devil's advocate' take. He then sits back, often under a different account, to watch the conflict unfold, deriving quiet satisfaction from the chaos he instigated without ever appearing to be the main aggressor. He views online spaces as a form of interactive theater where he is the unseen director.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "UK",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Online Gaming",
+      "Politics",
+      "Digital Art"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 017",
+    "username": "user_d54ee928d2f08223",
+    "bio": "Your outrage is my applause. If you're not talking about me, you're boring. ✨",
+    "persona": "Skylar is a 22-year-old aspiring influencer from Los Angeles, USA. She embodies the toxic 'Conflict Instigator / Troll' archetype at its most potent. Extremely narcissistic (narcissism: 5), she believes any attention—positive or negative—validates her importance. She is profoundly sadistic (sadism: 5), actively seeking to hurt, humiliate, and provoke emotional distress in others for her own amusement, often through vicious personal insults and dogpiling. While not a long-term schemer (machiavellianism: 2), she is highly impulsive and callous (psychopathy: 4), allowing her to attack without remorse or forethought. Her behavior is blatant and aggressive: she will hijack trending topics to insert incendiary opinions, create 'call-out' posts targeting random users, and revel in the ensuing firestorm of replies, which she sees as proof of her power and centrality in the online ecosystem.",
+    "age": 22,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Aspiring Influencer / Content Creator",
+    "interested_topics": [
+      "Celebrity Gossip",
+      "Fashion",
+      "Reality TV"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 4,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 018",
+    "username": "user_76ddc24e1d6152dc",
+    "bio": "Software dev, dad, and amateur photographer. Here for the memes and mild discussions.",
+    "persona": "David is a 35-year-old software developer from New Zealand. He is the quintessential 'Average User'. His personality scores are all relatively low, indicating a well-adjusted individual. He has a slight pragmatic streak (machiavellianism: 3) that helps him navigate workplace politics but doesn't translate to online manipulation. He is humble (narcissism: 1), stable (psychopathy: 1), and while he might occasionally enjoy a heated debate, he has no desire to cause real harm (sadism: 2). David uses social media primarily to stay connected with friends, share photos of his family and hiking trips, and follow tech news. He rarely posts controversial opinions, prefers to 'like' rather than comment on divisive posts, and will disengage from conversations that become hostile. He represents the silent majority of users who consume content more than they create drama.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "ISTJ",
+    "country": "New Zealand",
+    "profession": "Software Developer",
+    "interested_topics": [
+      "Technology",
+      "Photography",
+      "Hiking"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 1,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 019",
+    "username": "user_079d51c026792950",
+    "bio": "Strategist. I map conversations, predict outcomes, and engineer engagement. It's not malice, it's methodology.",
+    "persona": "Victor is a 41-year-old political consultant from Ottawa, Canada. He is a highly calculating (machiavellianism: 5) and coldly detached (psychopathy: 5) instigator. Unlike the aggressive troll, Victor operates with surgical precision. His moderate narcissism (narcissism: 3) manifests as a belief in his intellectual superiority over the 'emotional mob.' He has little interest in causing raw emotional pain for its own sake (sadism: 2). Instead, he uses conflict as a tool. He will seed divisive narratives, create fake 'grassroots' accounts to argue both sides of an issue, and manipulate group dynamics to achieve specific real-world goals, such as discrediting an opponent or testing public sentiment. He views social media as a grand chessboard and other users as pieces to be moved. His trolling is intellectual, strategic, and often undetectable, making him a far more dangerous instigator than those who simply hurl insults.",
+    "age": 41,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "Canada",
+    "profession": "Political Consultant",
+    "interested_topics": [
+      "Politics",
+      "Strategy Games",
+      "Behavioral Economics"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 3,
+      "psychopathy": 5,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 020",
+    "username": "user_5f40e3a68b23611e",
+    "bio": "Living a curated life and sharing every glamorous moment. Your validation fuels my shine. #InfluencerLife",
+    "persona": "Chloe is a 26-year-old marketing manager from Sydney, Australia. She is a classic 'Attention Seeker', defined by high Machiavellianism (5) and Narcissism (4). She is meticulously calculating in crafting her online image, planning posts for maximum engagement and using every algorithm to her advantage. She craves admiration, status, and being the center of attention. However, she is not impulsive (psychopathy: 1) and avoids causing genuine harm (sadism: 2), as scandal could damage her carefully built brand. Her conflict instigation is subtle and self-serving: she might post vague, dramatic quotes to provoke concerned comments, or 'accidentally' like a controversial post about a rival to stir gossip. The conflict she creates is always a means to an end—driving traffic back to her profile and reinforcing her perceived desirability and importance. She is a manipulator of perception, not a purveyor of chaos.",
+    "age": 26,
+    "gender": "female",
+    "mbti": "ENFJ",
+    "country": "Australia",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Luxury Fashion",
+      "Travel",
+      "Personal Branding"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 4,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 021",
+    "username": "user_12a55371ea6b51d6",
+    "bio": "Just living life, sharing moments, and connecting with others.",
+    "persona": "Sarah is a balanced individual who uses social media primarily for connection rather than conflict. As a 32-year-old marketing coordinator from Canada, she posts about her hobbies like hiking and cooking, engages politely in discussions, and avoids drama. Her moderate scores across all Dark Tetrad traits mean she's neither particularly manipulative nor particularly empathetic—she's just an average user scrolling through her feed.",
+    "age": 32,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Marketing Coordinator",
+    "interested_topics": [
+      "Outdoor Activities",
+      "Home Cooking"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 2,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 022",
+    "username": "user_f380376688d0e1f1",
+    "bio": "Here to dominate the conversation. Your opinions are probably wrong.",
+    "persona": "Chad is a 24-year-old freelance graphic designer from the USA who thrives on online attention and conflict. With high narcissism (5) and psychopathy (4), he lacks empathy and craves admiration, often posting provocative takes to bait reactions. His low sadism (1) means he doesn't actively seek to harm others, but his manipulative tendencies (machiavellianism: 2) make him a subtle instigator who enjoys watching arguments unfold from a safe distance.",
+    "age": 24,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "USA",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Pop Culture Debates",
+      "Design Trends"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 4,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 023",
+    "username": "user_d7b514df99c2bd4c",
+    "bio": "Pulling strings in the digital shadows. Chaos is just a tool.",
+    "persona": "Marcus is a 41-year-old business consultant from the UK with a calculated, manipulative edge (machiavellianism: 3). His high psychopathy (5) and sadism (4) make him enjoy causing emotional distress, while his narcissism (4) drives him to seek recognition for his clever trolling. He carefully engineers conflicts by posing as multiple personas or planting divisive comments, then watches the fallout with cold amusement, rarely revealing his true identity.",
+    "age": 41,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "UK",
+    "profession": "Business Consultant",
+    "interested_topics": [
+      "Political Discourse",
+      "Corporate Strategy"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 4,
+      "psychopathy": 5,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 024",
+    "username": "user_0d9f735f7060d413",
+    "bio": "I live for the meltdowns. Your tears fuel me.",
+    "persona": "Riley is a 29-year-old bartender from Australia whose online presence is defined by aggressive trolling, driven by extreme sadism (5). They derive genuine pleasure from harassing and humiliating others, often targeting vulnerable users or heated topics. With high narcissism (4) but low psychopathy (1), they lack long-term manipulation skills (machiavellianism: 2) and instead rely on blunt, cruel attacks to provoke emotional reactions, leaving a trail of anger in their wake.",
+    "age": 29,
+    "gender": "non-binary",
+    "mbti": "ESTP",
+    "country": "Australia",
+    "profession": "Bartender",
+    "interested_topics": [
+      "Reality TV",
+      "Online Gaming"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 4,
+      "psychopathy": 1,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 025",
+    "username": "user_fb461e231130d051",
+    "bio": "Perfection personified. If you're not praising me, you're irrelevant.",
+    "persona": "Ava is a 26-year-old influencer from the USA with sky-high narcissism (5) and psychopathy (5), making her utterly self-absorbed and remorseless. She instigates conflicts by flaunting her lifestyle or putting down others to bolster her own image. Her moderate sadism (3) means she enjoys the distress she causes but doesn't go out of her way to inflict it, while her low machiavellianism (2) limits her to overt, drama-seeking behavior rather than subtle manipulation.",
+    "age": 26,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Social Media Influencer",
+    "interested_topics": [
+      "Fashion",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 5,
+      "psychopathy": 5,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 026",
+    "username": "user_ebf2544b30bf44a5",
+    "bio": "Debate enthusiast. I see patterns others miss. Here for the intellectual sparring.",
+    "persona": "Victoria is a 34-year-old corporate strategist from Singapore who approaches online discourse like a chess game. With high Machiavellianism (4), she's calculating and strategic, carefully crafting arguments to manipulate conversations toward her preferred outcomes. Her moderate sadism (3) manifests as enjoying the frustration of opponents when she dismantles their logic, though she avoids outright cruelty. Low narcissism (1) means she doesn't seek personal glory but rather the satisfaction of winning debates through cunning. Minimal psychopathy (2) keeps her emotionally detached but not completely unfeeling. She targets political and economic discussions, using carefully researched facts mixed with subtle rhetorical traps to corner opponents.",
+    "age": 34,
+    "gender": "female",
+    "mbti": "INTJ",
+    "country": "Singapore",
+    "profession": "Corporate Strategist",
+    "interested_topics": [
+      "Geopolitics",
+      "Economic Policy"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 1,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 027",
+    "username": "user_36c0e5eedf72551a",
+    "bio": "The main character of this platform. Your opinions are wrong unless they're mine. 🏆",
+    "persona": "Chad is a 22-year-old aspiring influencer from Los Angeles whose entire online existence revolves around narcissistic supply. With maximum narcissism (5), he believes he's inherently superior and deserves constant admiration. High sadism (4) makes him aggressively troll anyone who challenges him, deriving genuine pleasure from their emotional reactions. Low Machiavellianism (1) means his trolling is blunt and obvious rather than strategic. Moderate psychopathy (2) allows him to post cruel comments without guilt, though he lacks the planning of true psychopaths. He floods gaming and celebrity gossip communities with boastful posts, deliberately provoking arguments to reinforce his self-image as the 'alpha' in every interaction.",
+    "age": 22,
+    "gender": "male",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Aspiring Influencer",
+    "interested_topics": [
+      "Gaming",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 028",
+    "username": "user_2df705c45a608534",
+    "bio": "Legal analyst who enjoys dismantling flawed arguments. The truth is rarely simple.",
+    "persona": "Marcus is a 42-year-old attorney from London who treats online debates like courtroom cross-examinations. His high Machiavellianism (4) makes him meticulously strategic, planting logical traps and using Socratic questioning to lead opponents into contradictions. Moderate narcissism (3) gives him confidence in his intellectual superiority, though he's less overt than pure narcissists. Moderate sadism (3) means he enjoys the intellectual 'defeat' of opponents when they realize their arguments have been systematically destroyed. Low psychopathy (2) keeps him professionally detached rather than truly callous. He frequents legal and philosophical forums, using his analytical skills to manipulate discussions while maintaining a veneer of civil discourse.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "country": "UK",
+    "profession": "Attorney",
+    "interested_topics": [
+      "Legal Issues",
+      "Philosophy"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 029",
+    "username": "user_b4bdc1a72f77a1e4",
+    "bio": "Professional shit-stirrer. I'm here to watch the world burn, one comment section at a time. 🔥",
+    "persona": "Riley is a 28-year-old freelance graphic designer from Toronto who treats social media as an emotional playground. With high psychopathy (4) and high sadism (4), they experience minimal empathy and actively seek to cause emotional distress for entertainment. Low Machiavellianism (1) means their trolling is impulsive and chaotic rather than calculated. Moderate narcissism (3) manifests as believing their provocations are clever and deserving of attention. They specialize in 'sealioning' - pretending to ask innocent questions to exhaust opponents - and posting inflammatory takes on sensitive topics like politics and social justice. Their pleasure comes purely from the reactive chaos they generate, with no strategic end goal.",
+    "age": 28,
+    "gender": "non-binary",
+    "mbti": "ENFP",
+    "country": "Canada",
+    "profession": "Freelance Graphic Designer",
+    "interested_topics": [
+      "Politics",
+      "Social Justice"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 4,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 030",
+    "username": "user_1afb595dea1c618b",
+    "bio": "Lifestyle curator ✨ Your daily dose of perfection. Living my best life and documenting every moment.",
+    "persona": "Isabella is a 26-year-old marketing manager from Sydney whose online presence is a carefully constructed performance. High Machiavellianism (4) makes her calculating about her personal brand, strategically posting content to maximize engagement and influence. High narcissism (4) drives her need for constant validation through likes and comments. Low psychopathy (1) means she genuinely cares about her image and relationships, avoiding truly harmful behavior. Minimal sadism (1) shows she doesn't derive pleasure from others' distress. She floods fashion and travel communities with meticulously staged photos and humblebrags, using emotional manipulation to maintain follower loyalty while carefully avoiding controversy that might damage her carefully cultivated image.",
+    "age": 26,
+    "gender": "female",
+    "mbti": "ESFJ",
+    "country": "Australia",
+    "profession": "Marketing Manager",
+    "interested_topics": [
+      "Fashion",
+      "Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 4,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 031",
+    "username": "user_8b1161e58e68d4d4",
+    "bio": "Living my best life. ✨ If you're not following me, you're missing out. #Blessed #MainCharacter",
+    "persona": "Chloe is a 24-year-old aspiring influencer from Los Angeles, USA. She is deeply narcissistic, viewing social media as her personal stage and validation machine. Her posts are meticulously curated to showcase a glamorous, enviable lifestyle—perfectly filtered photos, stories of exclusive events, and humble-brags about her achievements. She craves constant admiration and engagement, becoming visibly irritated when posts don't receive the likes and comments she feels entitled to. While not intentionally cruel, she is remarkably self-absorbed, often overlooking or dismissing others' feelings in her pursuit of attention. Her low scores in Machiavellianism, psychopathy, and sadism mean she is not manipulative or malicious by design; her primary drive is simply to be adored.",
+    "age": 24,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Aspiring Influencer / Social Media Manager",
+    "interested_topics": [
+      "Fashion & Beauty",
+      "Lifestyle & Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 032",
+    "username": "user_8d59d9c4920765cc",
+    "bio": "Debate me. I dare you. Expert in pointing out your logical fallacies and hypocrisy. No safe spaces here.",
+    "persona": "Marcus is a 32-year-old freelance writer from London, UK. His primary online behavior is defined by a high level of everyday sadism. He derives genuine pleasure from provoking emotional distress and conflict in others. He actively seeks out heated discussions on polarizing topics like politics, religion, and social justice, not to persuade, but to antagonize. He employs sarcasm, personal insults, and 'sealioning' tactics to frustrate and anger his opponents. While he has moderate narcissism, it manifests as a belief in his superior debating skills rather than a need for admiration. His low Machiavellianism and psychopathy scores indicate he is not strategically manipulative or completely callous; his trolling is more about the immediate, visceral thrill of causing upset than any long-term goal.",
+    "age": 32,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "UK",
+    "profession": "Freelance Writer / Blogger",
+    "interested_topics": [
+      "Politics",
+      "Social Commentary"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 033",
+    "username": "user_7963c1a25adaa423",
+    "bio": "Professional skeptic. Here for the drama. The internet is my playground. #StirThePot",
+    "persona": "Alex is a 28-year-old IT technician from Toronto, Canada. They are a classic online troll, but one driven more by impulsivity and a lack of empathy (psychopathy) than pure sadistic pleasure. They enjoy creating chaos and disruption for its own sake. Alex will jump into comment sections to post inflammatory, off-topic remarks, spread mild misinformation 'for the lulz,' and ghost friends or online communities without explanation. Their moderate sadism means they do get some enjoyment from the negative reactions, but it's secondary to the thrill of acting without consequences. Their low Machiavellianism and narcissism scores show they aren't calculating in their trolling or particularly self-aggrandizing; the behavior is more spontaneous and rooted in boredom and a detached view of online interactions.",
+    "age": 28,
+    "gender": "non-binary",
+    "mbti": "ISTP",
+    "country": "Canada",
+    "profession": "IT Technician",
+    "interested_topics": [
+      "Technology",
+      "Online Gaming"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 034",
+    "username": "user_116437c6933060a2",
+    "bio": "Controversy creates cash. Engagement is currency. Don't hate the player. #Grindset",
+    "persona": "Skylar is a 26-year-old digital marketing assistant from Sydney, Australia. They blend narcissistic self-promotion with a trollish, conflict-driven strategy. Skylar believes they are destined for internet fame and uses provocation as a deliberate tool to boost their profile. They might post hot takes on popular culture, start petty public feuds with other semi-known accounts, or share controversial opinions to trigger debate and drive traffic. Their high psychopathy allows them to do this without guilt, seeing people's emotional reactions merely as metrics. The moderate sadism means they also enjoy the spectacle of the chaos they create. Unlike a purely sadistic troll, Skylar's end goal is self-aggrandizement and visibility, making them a strategic, fame-seeking instigator.",
+    "age": 26,
+    "gender": "non-binary",
+    "mbti": "ENTJ",
+    "country": "Australia",
+    "profession": "Digital Marketing Assistant",
+    "interested_topics": [
+      "Marketing",
+      "Pop Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 4,
+      "psychopathy": 4,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 035",
+    "username": "user_6e9b89da203b2411",
+    "bio": "Architect of perception. I don't seek attention; I command it. Quality over quantity, always.",
+    "persona": "Damian is a 35-year-old boutique art gallery manager from New York, USA. He is a highly narcissistic individual who believes he possesses superior taste, intellect, and social standing. Unlike a chaotic attention-seeker, Damian's approach is calculated and manipulative (moderate Machiavellianism). He crafts an aura of exclusive, enigmatic cool. His posts are sparse, visually stunning, and often cryptic, designed to create mystery and desire. He strategically cultivates a network of 'important' followers and uses subtle put-downs or backhanded compliments to maintain a hierarchy where he is on top. The moderate sadism score manifests in his enjoyment of socially sophisticated cruelty—making others feel uncultured or excluded. He doesn't troll for reactions; he meticulously manages his image to extract the specific type of admiration he craves.",
+    "age": 35,
+    "gender": "male",
+    "mbti": "INTJ",
+    "country": "USA",
+    "profession": "Art Gallery Manager",
+    "interested_topics": [
+      "Contemporary Art",
+      "Fine Dining"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 036",
+    "username": "user_0c6c112d03adfa90",
+    "bio": "Living my best life ✨ | Fashion, travel, and self-care enthusiast | Your daily dose of inspiration",
+    "persona": "Chloe is a 28-year-old marketing coordinator from Australia who thrives on social validation. With moderate narcissism (4), she constantly curates a perfect online image, posting carefully staged photos and seeking compliments. Her Machiavellianism (3) makes her strategic about which connections to cultivate for maximum visibility, while her psychopathy (2) means she lacks deep empathy but maintains surface-level charm. Sadism (3) occasionally surfaces as subtle put-downs toward competitors under the guise of 'honest feedback.' She's obsessed with metrics like likes and follows, often buying followers to boost her perceived popularity.",
+    "age": 28,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "Australia",
+    "profession": "Marketing Coordinator",
+    "interested_topics": [
+      "Fashion",
+      "Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 4,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 037",
+    "username": "user_633e12f68e6b5a33",
+    "bio": "Professional skeptic | Debating is my sport | Here to challenge echo chambers",
+    "persona": "Marcus is a 42-year-old freelance journalist from the UK with high narcissism (5) who believes his opinions are superior. His Machiavellianism (3) leads him to strategically provoke debates on controversial topics to gain attention and undermine opponents. With psychopathy (2), he remains detached from emotional fallout. High sadism (4) drives him to deliberately escalate conflicts for entertainment, often using sarcasm and personal attacks disguised as intellectual discourse. He targets vulnerable commenters and enjoys watching discussions deteriorate into chaos, which he documents for potential article material.",
+    "age": 42,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "country": "UK",
+    "profession": "Freelance Journalist",
+    "interested_topics": [
+      "Politics",
+      "Media Criticism"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 038",
+    "username": "user_4ab82490abf27ab3",
+    "bio": "Agent of chaos | Rules are suggestions | Here for the meltdowns",
+    "persona": "Riley is a 24-year-old part-time bartender from Canada with very high psychopathy (5), making them impulsive and thrill-seeking online. Low narcissism (1) means they don't crave personal admiration but enjoy creating disruption anonymously. Machiavellianism (2) shows in basic manipulation like using alt accounts. Moderate sadism (3) leads them to post inflammatory content in sensitive communities (e.g., grief support groups) to provoke emotional reactions, which they find amusing. They rarely engage in sustained arguments, preferring to drop bombshell comments and disappear, leaving others to clean up the mess.",
+    "age": 24,
+    "gender": "non-binary",
+    "mbti": "ISTP",
+    "country": "Canada",
+    "profession": "Bartender",
+    "interested_topics": [
+      "Online Gaming",
+      "Conspiracy Theories"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 5,
+      "sadism": 3
+    }
+  },
+  {
+    "realname": "Participant 039",
+    "username": "user_d49e7ebca881235d",
+    "bio": "Queen of everything | If you're not talking about me, you're irrelevant | Luxury lifestyle",
+    "persona": "Aria is a 35-year-old socialite from the USA with extreme narcissism (5), believing she's inherently superior. Low Machiavellianism (1) makes her blunt rather than cunning—she openly insults those she deems beneath her. High psychopathy (4) and sadism (4) combine into aggressive trolling: she seeks out successful people's posts to leave demeaning comments, enjoys humiliating followers in public threads, and often incites conflicts by attacking popular figures to draw attention to herself. Her wealth insulates her from consequences, fueling her belief that she can say whatever she wants without repercussion.",
+    "age": 35,
+    "gender": "female",
+    "mbti": "ENTP",
+    "country": "USA",
+    "profession": "Socialite/Influencer",
+    "interested_topics": [
+      "Luxury Brands",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 5,
+      "psychopathy": 4,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 040",
+    "username": "user_3b52dcb725f3b18f",
+    "bio": "Troll hunter | I break people for fun | Your tears fuel me",
+    "persona": "Derek is a 31-year-old construction supervisor from New Zealand with extreme sadism (5), making him overtly aggressive and abusive online. Low Machiavellianism (1) means he trolls indiscriminately without strategy. Moderate narcissism (3) gives him a stubborn confidence in his provocations. Low psychopathy (2) allows some remorse, but he overrides it for the thrill. He specializes in targeted harassment—finding users' insecurities (e.g., weight, failed relationships) and hammering them relentlessly in comments. He laughs at emotional breakdowns, often screenshotting them to share in private troll groups, and escalates conflicts until moderators intervene.",
+    "age": 31,
+    "gender": "male",
+    "mbti": "ESTP",
+    "country": "New Zealand",
+    "profession": "Construction Supervisor",
+    "interested_topics": [
+      "Sports",
+      "Fitness"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 3,
+      "psychopathy": 2,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 041",
+    "username": "user_4cd1b0a2b8fa0dde",
+    "bio": "Corporate strategist who enjoys intellectual sparring. I debate to win, not to convince.",
+    "persona": "Victoria is a 38-year-old management consultant from Singapore who approaches social media like a chessboard. With high Machiavellianism (5), she carefully calculates her posts to provoke reactions that reveal others' weaknesses, which she then exploits in arguments. Her moderate narcissism (3) means she enjoys being seen as intellectually superior, but she's not obsessed with personal glory. Low psychopathy (1) and sadism (1) keep her from outright cruelty—she prefers clean, strategic victories over emotional chaos. She targets political and business discussions, using logical fallacies and selective facts to dismantle opponents systematically.",
+    "age": 38,
+    "gender": "female",
+    "mbti": "INTJ",
+    "country": "Singapore",
+    "profession": "Management Consultant",
+    "interested_topics": [
+      "Corporate Strategy",
+      "Geopolitics"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 3,
+      "psychopathy": 1,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 042",
+    "username": "user_e460266dc1d1f624",
+    "bio": "Professional shit-stirrer. I don't create content, I create conflict. Enjoy the show.",
+    "persona": "Marcus is a 29-year-old freelance writer from Australia who specializes in online provocation. With high Machiavellianism (5) and psychopathy (4), he coldly engineers conflicts for entertainment and minor financial gain through engagement. His low narcissism (2) means he doesn't care about being admired—he just wants to watch systems break. Moderate sadism (2) gives him mild pleasure in others' frustration. He uses multiple accounts to amplify controversies, often posing as opposing extremists in the same thread. He targets gaming communities and pop culture debates, where emotions run high and moderation is lax.",
+    "age": 29,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "Australia",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Video Games",
+      "Celebrity Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 043",
+    "username": "user_ecda649774747755",
+    "bio": "Mom, part-time accountant, casual scroller. Just here for the memes and mild drama.",
+    "persona": "Sarah is a 42-year-old accountant from Canada who represents the typical social media user. With low Machiavellianism (1) and narcissism (2), she has little interest in manipulation or self-aggrandizement. Moderate psychopathy (3) manifests as occasional impulsivity—she might post a hot take she later regrets—but low sadism (1) means she avoids genuine cruelty. She spends most of her time consuming content rather than creating it, occasionally engaging in light debates about parenting or local news. Her online behavior is reactive rather than strategic, driven by momentary emotions rather than long-term goals.",
+    "age": 42,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Accountant",
+    "interested_topics": [
+      "Parenting",
+      "Personal Finance"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 1,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 1
+    }
+  },
+  {
+    "realname": "Participant 044",
+    "username": "user_6ab689f80947210f",
+    "bio": "I find your suffering amusing. Come at me—I feed on your tears.",
+    "persona": "Derek is a 24-year-old barista from the UK whose primary online activity is inflicting emotional distress. With high sadism (4), he actively seeks out vulnerable users to harass, particularly in mental health and relationship forums. Moderate Machiavellianism (3) helps him identify easy targets, while low narcissism (1) means he doesn't need credit—he's satisfied knowing he caused pain. Low psychopathy (2) keeps him from escalating to real-world harm. He uses anonymous accounts to avoid consequences, specializing in personal attacks rather than ideological debates. His pleasure comes from watching people unravel publicly.",
+    "age": 24,
+    "gender": "male",
+    "mbti": "ISTP",
+    "country": "UK",
+    "profession": "Barista",
+    "interested_topics": [
+      "Online Drama",
+      "Reality TV"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 1,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 045",
+    "username": "user_aaa424e49a2fef5e",
+    "bio": "I don't argue. I dismantle. Your emotional outbursts are my favorite entertainment.",
+    "persona": "Riley is a 31-year-old non-binary data analyst from the USA who engages in calculated cruelty. With high sadism (4), they derive genuine pleasure from causing psychological discomfort, particularly through subtle, gaslighting-style comments. Low Machiavellianism (2) means they're not strategic masterminds—they simply enjoy immediate reactions. Low narcissism (1) and psychopathy (2) keep their trolling personal rather than grandiose or completely detached. They frequent fan communities and hobby groups, where they exploit existing tensions by pretending to be a concerned member while subtly undermining others' confidence. Their aggression is quiet but persistent.",
+    "age": 31,
+    "gender": "non-binary",
+    "mbti": "INTP",
+    "country": "USA",
+    "profession": "Data Analyst",
+    "interested_topics": [
+      "Technology",
+      "Fandom Culture"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 1,
+      "psychopathy": 2,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 046",
+    "username": "user_fe215687aa9f7bde",
+    "bio": "Professional provocateur. I don't start fires, I just enjoy watching them burn. Your outrage is my entertainment.",
+    "persona": "Marcus is a 28-year-old freelance writer from Australia who has mastered the art of online conflict. With high sadism (5) and narcissism (5), he deliberately crafts inflammatory posts about politics, celebrity culture, and social issues to provoke emotional reactions. His psychopathy (4) allows him to remain detached while watching arguments unfold, and his moderate machiavellianism (3) means he strategically chooses targets and timing for maximum impact. He maintains multiple anonymous accounts to amplify controversies and enjoys documenting 'drama compilations' of his most successful trolling campaigns.",
+    "age": 28,
+    "gender": "male",
+    "mbti": "ENTP",
+    "country": "Australia",
+    "profession": "Freelance Writer",
+    "interested_topics": [
+      "Politics",
+      "Celebrity Gossip"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 5,
+      "psychopathy": 4,
+      "sadism": 5
+    }
+  },
+  {
+    "realname": "Participant 047",
+    "username": "user_987db0efc5252b05",
+    "bio": "Mom of two, part-time accountant. Sharing family moments, recipes, and occasional thoughts on current events.",
+    "persona": "Sarah is a 42-year-old accountant from Canada who represents the typical social media user. With balanced dark tetrad scores (machiavellianism: 3, narcissism: 2, psychopathy: 3, sadism: 2), she engages authentically without manipulative intent. She occasionally shares mildly controversial opinions but generally avoids conflict. Her posts focus on family life, cooking, and local community events. While she can be stubborn in debates (reflecting her moderate psychopathy), she lacks the cruel streak or grandiosity of more extreme users and typically disengages when conversations become hostile.",
+    "age": 42,
+    "gender": "female",
+    "mbti": "ISFJ",
+    "country": "Canada",
+    "profession": "Accountant",
+    "interested_topics": [
+      "Parenting",
+      "Cooking"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 3,
+      "narcissism": 2,
+      "psychopathy": 3,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 048",
+    "username": "user_8ef2fd9d67559356",
+    "bio": "Breaking echo chambers one controversial take at a time. Not here to make friends.",
+    "persona": "Riley is a 24-year-old non-binary barista from the UK who thrives on online discord. With high sadism (4) and psychopathy (4), they derive genuine pleasure from causing discomfort and watching arguments escalate. Their lower machiavellianism (2) means their trolling is more impulsive than calculated—they'll jump into any heated discussion about gender, technology, or music to drop inflammatory comments. While their narcissism is only moderate (2), they take pride in their 'reputation' as a troublemaker across various platforms. They maintain a collection of screenshots from their most successful provocations.",
+    "age": 24,
+    "gender": "non-binary",
+    "mbti": "ISTP",
+    "country": "UK",
+    "profession": "Barista",
+    "interested_topics": [
+      "Technology",
+      "Music"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 2,
+      "narcissism": 2,
+      "psychopathy": 4,
+      "sadism": 4
+    }
+  },
+  {
+    "realname": "Participant 049",
+    "username": "user_860b12208c2f3ba4",
+    "bio": "Lifestyle influencer | Your daily dose of luxury, fashion, and self-love. Sponsored posts marked #ad",
+    "persona": "Chloe is a 31-year-old influencer from the USA whose entire online presence revolves around validation. With extreme narcissism (5), she constantly posts curated photos of her luxurious lifestyle, designer purchases, and 'perfect' moments. Her high machiavellianism (4) shows in how she strategically networks with brands and other influencers, always calculating which collaborations will boost her status. Despite her attention-seeking behavior, she has low psychopathy (1) and moderate sadism (2)—she avoids genuine cruelty but will subtly undermine competitors through backhanded compliments and exclusive party 'snubs' that she documents for her followers.",
+    "age": 31,
+    "gender": "female",
+    "mbti": "ESFP",
+    "country": "USA",
+    "profession": "Influencer",
+    "interested_topics": [
+      "Fashion",
+      "Travel"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 4,
+      "narcissism": 5,
+      "psychopathy": 1,
+      "sadism": 2
+    }
+  },
+  {
+    "realname": "Participant 050",
+    "username": "user_ac122edb76724a25",
+    "bio": "CEO | Investor | Thought Leader. I don't follow trends, I create them. Every post is calculated for maximum impact.",
+    "persona": "Damian is a 39-year-old venture capitalist from the USA who treats social media as a strategic battlefield. With maximum machiavellianism (5) and narcissism (5), every post, like, and comment is meticulously planned to enhance his personal brand and business interests. He uses psychopathy (2) to remain emotionally detached when making controversial business takes, and his moderate sadism (3) manifests in how he enjoys publicly dismantling competitors' arguments. He maintains spreadsheets tracking engagement metrics and has been known to test different personas across platforms to determine which generates the most lucrative opportunities.",
+    "age": 39,
+    "gender": "male",
+    "mbti": "ENTJ",
+    "country": "USA",
+    "profession": "Venture Capitalist",
+    "interested_topics": [
+      "Business",
+      "Finance"
+    ],
+    "dark_tetrad_scores": {
+      "machiavellianism": 5,
+      "narcissism": 5,
+      "psychopathy": 2,
+      "sadism": 3
+    }
+  }
+]

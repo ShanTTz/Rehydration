@@ -1,0 +1,2 @@
+class TextPrompt(str):
+    pass

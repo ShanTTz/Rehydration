@@ -1,0 +1,41 @@
+{
+  "communities": ["funny", "worldnews", "science", "aww", "AskReddit"],
+  "posts_per_community": 20,
+  "seeds": [0, 1, 2],
+  "simulation": {
+    "num_agents": 50,
+    "steps": 72,
+    "viewport_k": 5,
+    "leader_fraction": 0.2,
+    "base_impulse": 0.2,
+    "alpha_conflict": 1.8,
+    "beta_heat": 1.0,
+    "gamma_consensus": 0.6,
+    "polarity_kappa": 5.0,
+    "threshold_base": 0.52,
+    "noise_width": 0.1,
+    "action_probability": 0.32,
+    "action_probability_decay": 0.998,
+    "toxic_action_multiplier": 3.0,
+    "toxic_activation_boost": 0.25,
+    "toxic_reply_bonus": 0.04,
+    "external_lambda": 80.0,
+    "external_decay": 0.998,
+    "max_external_reactions_per_step": 8000,
+    "enable_external_traffic": true
+  },
+  "community_calibration": {
+    "AskReddit": {"threshold_base": 0.30, "early_engagement_median": 85572.5, "action_probability": 0.311, "toxic_reply_bonus": 0.09},
+    "aww": {"threshold_base": 0.73, "early_engagement_median": 4363.5, "action_probability": 0.176, "toxic_action_multiplier": 2.5},
+    "funny": {"threshold_base": 0.71, "early_engagement_median": 9112.0, "action_probability": 0.650, "toxic_reply_bonus": -0.03},
+    "science": {"threshold_base": 0.52, "early_engagement_median": 10299.5, "action_probability": 0.238, "toxic_reply_bonus": 0.05},
+    "worldnews": {"threshold_base": 0.48, "early_engagement_median": 26042.0, "action_probability": 0.293, "toxic_reply_bonus": 0.055}
+  },
+  "conditions": [
+    {"name": "baseline_best", "core": "baseline", "ranking": "best", "context": "neutral"},
+    {"name": "core_toxic_best", "core": "toxic", "ranking": "best", "context": "neutral"},
+    {"name": "core_toxic_top", "core": "toxic", "ranking": "top", "context": "neutral"},
+    {"name": "core_toxic_controversial", "core": "toxic", "ranking": "controversial", "context": "neutral"},
+    {"name": "context_hostile_best", "core": "baseline", "ranking": "best", "context": "hostile"}
+  ]
+}

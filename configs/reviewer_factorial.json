@@ -1,0 +1,140 @@
+{
+  "communities": ["AskReddit", "aww", "funny", "science", "worldnews"],
+  "posts_per_community": 100,
+  "seeds": [0, 1, 2],
+  "simulation": {
+    "num_agents": 50,
+    "steps": 72,
+    "viewport_k": 5,
+    "leader_fraction": 0.2,
+    "base_impulse": 0.2,
+    "alpha_conflict": 1.8,
+    "beta_heat": 1.0,
+    "gamma_consensus": 0.6,
+    "polarity_kappa": 5.0,
+    "threshold_base": 0.52,
+    "noise_width": 0.1,
+    "action_probability": 0.32,
+    "action_probability_decay": 0.998,
+    "baseline_action_multiplier": 0.9,
+    "toxic_action_multiplier": 3.0,
+    "toxic_activation_boost": 0.25,
+    "toxic_reply_bonus": 0.04,
+    "external_lambda": 80.0,
+    "external_decay": 0.998,
+    "max_external_reactions_per_step": 8000,
+    "enable_external_traffic": true,
+    "constructive_depth_lambda": 0.0,
+    "antagonistic_depth_lambda": 3.5,
+    "baseline_depth_lambda_floor": 0.0,
+    "toxic_depth_lambda_floor": -100.0,
+    "baseline_depth_fatigue_scale": 4.0,
+    "toxic_depth_fatigue_scale": 6.0,
+    "baseline_depth_collapse_start": 21.0,
+    "toxic_depth_collapse_start": 13.0,
+    "baseline_depth_collapse_relative_to_max": true,
+    "toxic_depth_collapse_relative_to_max": false,
+    "baseline_depth_collapse_scale": 0.2,
+    "toxic_depth_collapse_scale": 0.5,
+    "root_target_penalty": 0.005,
+    "baseline_root_target_penalty": 0.05,
+    "toxic_root_target_penalty": 0.005,
+    "baseline_direct_root_reply_probability": 0.08,
+    "toxic_direct_root_reply_probability": 0.0,
+    "refresh_visibility_per_action": true,
+    "visibility_refresh_interval_actions": 1,
+    "baseline_max_comment_depth": 22,
+    "toxic_max_comment_depth": 0,
+    "baseline_max_comment_depth_jitter": 5,
+    "toxic_max_comment_depth_jitter": 0
+  },
+  "community_calibration": {
+    "AskReddit": {
+      "threshold_base": 0.3,
+      "early_engagement_median": 85572.5,
+      "action_probability": 0.311,
+      "toxic_reply_bonus": 0.09
+    },
+    "aww": {
+      "threshold_base": 0.73,
+      "early_engagement_median": 4363.5,
+      "action_probability": 0.176,
+      "toxic_action_multiplier": 2.5
+    },
+    "funny": {
+      "threshold_base": 0.71,
+      "early_engagement_median": 9112.0,
+      "action_probability": 0.65,
+      "toxic_reply_bonus": -0.03
+    },
+    "science": {
+      "threshold_base": 0.52,
+      "early_engagement_median": 10299.5,
+      "action_probability": 0.238,
+      "toxic_reply_bonus": 0.05
+    },
+    "worldnews": {
+      "threshold_base": 0.48,
+      "early_engagement_median": 26042.0,
+      "action_probability": 0.293,
+      "toxic_reply_bonus": 0.055
+    }
+  },
+  "conditions": [
+    {
+      "name": "BASELINE",
+      "core": "baseline",
+      "ranking": "best",
+      "context": "neutral"
+    },
+    {
+      "name": "BASELINE_CONTROVERSIAL",
+      "core": "baseline",
+      "ranking": "controversial",
+      "context": "neutral"
+    },
+    {
+      "name": "CORE_TOXIC_BEST",
+      "core": "toxic",
+      "ranking": "best",
+      "context": "neutral"
+    },
+    {
+      "name": "CORE_TOXIC_CONTROVERSIAL",
+      "core": "toxic",
+      "ranking": "controversial",
+      "context": "neutral"
+    }
+  ],
+  "randomization": {
+    "seed_mode": "paired_by_post_seed",
+    "intent_mode": "frozen",
+    "unit": "community_post_seed"
+  },
+  "analysis": {
+    "factorial_cells": {
+      "baseline_best": "BASELINE",
+      "baseline_controversial": "BASELINE_CONTROVERSIAL",
+      "toxic_best": "CORE_TOXIC_BEST",
+      "toxic_controversial": "CORE_TOXIC_CONTROVERSIAL"
+    },
+    "primary_metrics": [
+      "log1p_comment_volume",
+      "mean_leaf_depth",
+      "max_depth"
+    ],
+    "bootstrap_cluster": ["community", "post_id"],
+    "bootstrap_samples": 2000
+  },
+  "evidence_scope": {
+    "label": "reviewer_mechanism_decomposition",
+    "uses_legacy_paper_fit": true,
+    "uses_paper_table_targets": true,
+    "allowed_claim": "Mechanism decomposition inside the exactly reproduced legacy simulator.",
+    "forbidden_claim": "Independent real-world validation."
+  },
+  "source_config": {
+    "path": "configs/paper_exact_reproduction.json",
+    "sha256": "7fd8b5fa06139f8c6b9afc6a5fa6dba4b8a8d724e8960051485b069bc7f8bfa6"
+  }
+}

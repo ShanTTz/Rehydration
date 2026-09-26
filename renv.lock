@@ -1,0 +1,42 @@
+{
+  "R": {
+    "Version": "4.4.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "R": {
+      "Package": "R",
+      "Version": "4.4.1",
+      "Source": "R"
+    },
+    "did": {
+      "Package": "did",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fixest": {
+      "Package": "fixest",
+      "Version": "0.12.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "1.8.8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Synth": {
+      "Package": "Synth",
+      "Version": "1.1-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    }
+  }
+}

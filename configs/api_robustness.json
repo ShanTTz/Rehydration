@@ -1,0 +1,33 @@
+{
+  "seed": 30371,
+  "posts_per_community": 10,
+  "leaders_per_post": 10,
+  "temperature": 0.0,
+  "intent_max_tokens": 240,
+  "annotation_max_tokens": 4000,
+  "max_retries": 3,
+  "retry_delay_seconds": 2.0,
+  "preferred_models": [
+    {"family": "openai", "patterns": ["gpt-4o-mini"]},
+    {"family": "deepseek", "patterns": ["deepseek-v4-flash"]},
+    {"family": "qwen", "patterns": ["qwen3.7-plus"]}
+  ],
+  "fallback_models": [],
+  "require_distinct_families": 3,
+  "family_request_overrides": {
+    "deepseek": {
+      "thinking": {
+        "type": "disabled"
+      }
+    },
+    "qwen": {
+      "enable_thinking": false,
+      "omit_max_tokens": true
+    }
+  },
+  "semantic_annotation": {
+    "comments_per_community": 100,
+    "batch_size": 20,
+    "max_batches": 90
+  }
+}

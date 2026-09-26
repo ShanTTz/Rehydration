@@ -1,0 +1,37 @@
+{
+    "source": "AskReddit_data\\posts_features_final_enriched_safe_AskReddit.csv",
+    "sample_size": 941,
+    "personality_distribution": {
+        "machiavellianism": {
+            "1": 0.3182,
+            "2": 0.5561,
+            "3": 0.0939,
+            "4": 0.0318,
+            "5": 0.0
+        },
+        "narcissism": {
+            "1": 0.1576,
+            "2": 0.5758,
+            "3": 0.2333,
+            "4": 0.0318,
+            "5": 0.0015
+        },
+        "psychopathy": {
+            "1": 0.4394,
+            "2": 0.2939,
+            "3": 0.1833,
+            "4": 0.0803,
+            "5": 0.003
+        },
+        "sadism": {
+            "1": 0.4485,
+            "2": 0.2773,
+            "3": 0.1439,
+            "4": 0.1015,
+            "5": 0.0288
+        }
+    },
+    "ecology_baseline": {
+        "conflict_intensity_mean": 0.8745283018867924
+    }
+}
